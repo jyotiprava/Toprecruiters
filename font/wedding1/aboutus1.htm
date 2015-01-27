@@ -1,0 +1,380 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>..::Wedding Penguin::..</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+<link href="style.css" type="text/css" rel="stylesheet"  />
+<link href="font.css" type="text/css" rel="stylesheet"  />
+<link href="responsiv.css" type="text/css" rel="stylesheet"  />
+ <!------------------------------------menu---------------------------->	
+		<link type="text/css" rel="stylesheet" href="css/jquery.mmenu.css" />
+		<link rel="stylesheet" href="css/smk-accordion.css" />
+    	<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
+        
+		<script type="text/javascript" src="js/jquery-v1.7.1.js"></script>
+		<script type="text/javascript" src="js/jquery-hover-effect.js"></script>
+		<script type="text/javascript" src="js/jquery.mmenu.js"></script>
+		<script type="text/javascript">
+			$(function() {
+
+				var pos 	= 'mm-top mm-right mm-bottom',
+					zpos	= 'mm-front mm-next';
+
+				var $html 	= $('html'),
+					$menu	= $('nav#menu'),
+					$both	= $html.add( $menu );
+
+				$menu.mmenu();
+
+				//	Add the position-classnames onChange
+				$('input[name="pos"]').change(function() {
+					$both.removeClass( pos ).addClass( 'mm-' + this.value );
+				});
+				$('input[name="zpos"]').change(function() {
+					$both.removeClass( zpos ).addClass( 'mm-' + this.value );
+				});
+			});
+		</script>
+<!---------------menu end-------------->
+
+<style>
+html{ height:100%;}
+body{ height:100%;}
+.todo_box img{ width:40px;}
+</style>
+</head>
+<body>
+ <!--------------------menu----------->
+<nav id="menu">
+		<ul>
+				<li><a href="index.htm">Home</a></li>
+				<li><a href="aboutus.htm">About Us</a></li>
+				<li><a href="#">Products</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Contact Us</a></li>
+		</ul>
+</nav>
+<!--------------menu end------------>
+<!--------------------------header----------------------->
+<div id="header_bar">
+		<div id="header_content">
+        		<div class="mobile_menu">
+                		<a href="#menu"><img src="images/index.png"  /></a>
+                </div>
+                <div class="mobile_menu" style="float:right; z-index:999; position:absolute; right:10px;">
+                		<a href="#"><img src="images/edit.png"  /></a>
+                </div>
+        		<div id="header_leftbox">
+                		<img src="images/headimg1.jpg"/>
+                        <span id="head_name">contact@gmail.com<br />Jaka & Adam</span>
+                </div>
+               
+                <div id="header_linkbox" style="margin-top:17px;">
+                		<img src="images/message.png" id="message"/>
+                        <img src="images/q.png" id="q"  />
+                </div>
+                <div id="logo_box">
+                		<a href="index.htm"><img src="images/logo.png"/></a>
+                </div>
+                
+        </div>
+</div>
+<div id="border_bar">
+
+</div>
+<!--------------------------header end----------------------->
+
+<!-------------------------menu bar----------------------->
+<div id="menu_bar" style="height:45px;">
+		<div id="menu_box">
+   		 		<div id="menu_box2">
+                          <ul>
+                                  <li><a href="#">Tools</a>
+                                          <ul>
+                                                  <li><a href="#">Todo</a></li>
+                                                  <li><a href="#">Vendor</a></li>
+                                                  <li><a href="#">Guest List</a></li>
+                                                   <li><a href="#">Budget</a></li>
+                                                  <li><a href="#">Itinerary</a></li>
+                                          </ul>
+                                  </li>
+                                  <li><a href="aboutus.htm">Website</a></li>
+                                  <li><a href="#">Gallery</a>
+                                  		<ul>
+                                                  <li><a href="#">View Photos</a></li>
+                                                  <li><a href="#">Live Feed</a></li>
+                                          </ul>
+                                  </li>
+                                  <li><a href="#">Profile</a></li>
+                                  <li><a href="#" style="width:150px;">Are you a vendor?</a></li>
+                          </ul>
+                 </div>
+        </div>
+</div>
+<!-------------------------menu bar end----------------------->
+
+<!-------------------------content----------------------->
+ <div id="container">
+        <div id="container_content">
+            <div id="smallmenubar" style="display:none;">
+                <h3>Todo List</h3>
+                <div id="smallmenubar1" style="display:none;">
+                		<ul>
+                        		<li style="margin-left:0px;">
+                                		<span class="todo_box">
+                                      		<img src="images/todo1.png"/>
+                                        </span>
+                                        <br />
+                                        <a href="#">Milestone</a>
+                                </li>
+                                
+                                <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo2.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Venu</a>
+                                </li>
+                                
+                                <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo3.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Bridal</a>
+                                </li>
+                                 <li>
+                                		<span class="todo_box" style="margin-left:4px;">
+                                      		<img src="images/todo4.png"  />
+                                        </span>
+                                        <br />
+                                        <span style="width:auto; height:auto; float:left; margin-top:4px;">
+                                        <a href="#">Photo & Video</a>
+                                		</span>
+                                </li>
+                                 <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo5.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Guest</a>
+                                </li>
+                                
+                                 <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo6.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Legal</a>
+                                </li>
+                                
+                                 <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo7.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Others</a>
+                                </li>
+                        </ul>
+                </div>
+                
+            </div>
+            <div id="mainbox">
+                <div id="leftbox" style="background:#fff;">
+                    <h3 class="head">Quick Links</h3>
+                    <ul id="list_box1">
+                        <a href="#"> <li class="list"><i><img src="images/arrow.png"  /></i><span>Gallery</span></li></a>
+                        <a href="#"> <li class="list"><i><img src="images/arrow.png"  /></i><span>Website</span></li></a>
+                        <a href="#"> <li class="list"><i><img src="images/arrow.png"  /></i><span>Todo List</span></li></a>
+                        <a href="#"> <li class="list"><i><img src="images/arrow.png"  /></i><span>Guestlist</span></li></a>
+                        <a href="#"> <li class="list"><i><img src="images/arrow.png"  /></i><span>Vendor</span></li></a>
+                        <a href="#"> <li class="list"><i><img src="images/arrow.png"  /></i><span>Budget</span></li></a>
+                        <a href="#"> <li class="list"><i><img src="images/arrow.png"  /></i><span>Itinerary</span></li></a>
+                        <a href="#"> <li class="list"><i><img src="images/arrow.png"  /></i><span>Profile</span></li></a>
+                    </ul>
+                </div>
+                <div id="middlebox">
+                
+                <div style="width:100%; height:120px; float:left;">
+                		<div id="smallmenubar1" style="margin-left:0px;">
+                		<ul>
+                        		<li style="margin-left:0px;">
+                                		<span class="todo_box">
+                                      		<img src="images/todo1.png"/>
+                                        </span>
+                                        <br />
+                                        <a href="#">Milestone</a>
+                                </li>
+                                
+                                <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo2.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Venu</a>
+                                </li>
+                                
+                                <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo3.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Bridal</a>
+                                </li>
+                                 <li>
+                                		<span class="todo_box" style="margin-left:4px;">
+                                      		<img src="images/todo4.png"  />
+                                        </span>
+                                        <br />
+                                        <span style="width:auto; height:auto; float:left; margin-top:4px;">
+                                        <a href="#">Photo & Video</a>
+                                		</span>
+                                </li>
+                                 <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo5.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Guest</a>
+                                </li>
+                                
+                                 <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo6.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Legal</a>
+                                </li>
+                                
+                                 <li>
+                                		<span class="todo_box">
+                                      		<img src="images/todo7.png"  />
+                                        </span>
+                                        <br />
+                                        <a href="#">Others</a>
+                                </li>
+                        </ul>
+                </div>
+                </div>
+                <div style="width:100%; height:auto; float:left;">
+                   <h3 class="head3" style="text-align:left;"><img src="images/milestone1.png" style="width:15px; float: left; margin-right: 5px; margin-top: 2px;" />Milestone</h3> 
+                    <!-- Accordion begin -->
+		<div class="accordion_example1" style="margin-top: 10px;">
+		
+			<!-- Section 1 -->
+			<div class="accordion_in acc_active">
+				<div class="acc_head">1.Shop for wedding location</div>
+				<div class="acc_content">
+                                    <input type="checkbox" />Confirm Hotel<br/>
+					Choose hotel from the vendor list by clicking this link<br/>
+                                    <input type="checkbox" />Pay Deposit
+					
+				</div>
+			</div>
+
+			<!-- Section 2 -->
+			<div class="accordion_in  ">
+				<div class="acc_head">2.Shop for wedding location</div>
+				<div class="acc_content">
+                                    <input type="checkbox" />Confirm Hotel<br/>
+				     Choose hotel from the vendor list by clicking this link
+				</div>
+			</div>
+
+			<!-- Section 3 -->
+			<div class="accordion_in">
+				<div class="acc_head">3.Shop for wedding location</div>
+				<div class="acc_content">
+                                    <input type="checkbox" />Confirm Hotel<br/>
+					Choose hotel from the vendor list by clicking this link
+				</div>
+			</div>
+                        <!-- Section 2 -->
+			<div class="accordion_in  ">
+				<div class="acc_head">4.Shop for wedding location</div>
+				<div class="acc_content">
+                                    <input type="checkbox" />Confirm Hotel<br/>
+				     Choose hotel from the vendor list by clicking this link
+				</div>
+			</div>
+
+			<!-- Section 3 -->
+			<div class="accordion_in">
+				<div class="acc_head">5.Shop for wedding location</div>
+				<div class="acc_content">
+                                    <input type="checkbox" />Confirm Hotel<br/>
+					Choose hotel from the vendor list by clicking this link
+				</div>
+			</div>
+                        <!-- Section 2 -->
+			<div class="accordion_in  ">
+				<div class="acc_head">6.Shop for wedding location</div>
+				<div class="acc_content">
+                                    <input type="checkbox" />Confirm Hotel<br/>
+				     Choose hotel from the vendor list by clicking this link
+				</div>
+			</div>
+
+			<!-- Section 3 -->
+			<div class="accordion_in">
+				<div class="acc_head">7.Shop for wedding location</div>
+				<div class="acc_content">
+                                    <input type="checkbox" />Confirm Hotel<br/>
+					Choose hotel from the vendor list by clicking this link
+				</div>
+			</div>
+
+		</div>
+     </div>
+		<!-- Accordion end -->
+
+		
+
+
+
+
+
+
+	<script type="text/javascript" src="js/smk-accordion.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function($){
+
+			$(".accordion_example1").smk_Accordion();
+
+			
+
+			// Demo text. Let's save some space to make the code readable. ;)
+			//$('.acc_content').not('.nodemohtml').html('<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Fusce aliquet neque et accumsan fermentum. Aliquam lobortis neque in nulla  tempus, molestie fermentum purus euismod.</p>');
+			
+		});
+	</script>
+                </div>
+                <div id="rightbox">
+                    <h4 class="head">Settings</h4>
+                    <ul id="list_box2">
+                        <a href="#"><li class="list1"><i><img src="images/tips.png" /></i>Tips</li></a>
+                        <a href="#"><li class="list1"><i><img src="images/plus.png"  /></i>Add Items</li></a>
+                        <a href="#"><li class="list1"><i><img src="images/search.png" /></i>Search</li></a>
+                        <a href="#"><li class="list1"><i><img src="images/list.png" /></i>Display all in a list</li></a>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-------------------------content end----------------------->
+
+<!-------------------------footer----------------------->
+<div id="footer">
+	<div id="footer_content">
+		&copy;Copyright All Rights Reserved 2014
+	</div>
+</div>
+<!-------------------------footer bar----------------------->
+
+</body>
+</html>

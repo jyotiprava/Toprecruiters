@@ -1,0 +1,310 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch0\stshfloch38\stshfhich38\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f37\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Verdana;}{\f38\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Calibri;}{\f39\froman\fcharset238\fprq2 Times New Roman CE;}{\f40\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f42\froman\fcharset161\fprq2 Times New Roman Greek;}{\f43\froman\fcharset162\fprq2 Times New Roman Tur;}{\f44\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f45\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f46\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f47\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f49\fswiss\fcharset238\fprq2 Arial CE;}{\f50\fswiss\fcharset204\fprq2 Arial Cyr;}{\f52\fswiss\fcharset161\fprq2 Arial Greek;}
+{\f53\fswiss\fcharset162\fprq2 Arial Tur;}{\f54\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f55\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f56\fswiss\fcharset186\fprq2 Arial Baltic;}{\f57\fswiss\fcharset163\fprq2 Arial (Vietnamese);}
+{\f409\fswiss\fcharset238\fprq2 Verdana CE;}{\f410\fswiss\fcharset204\fprq2 Verdana Cyr;}{\f412\fswiss\fcharset161\fprq2 Verdana Greek;}{\f413\fswiss\fcharset162\fprq2 Verdana Tur;}{\f416\fswiss\fcharset186\fprq2 Verdana Baltic;}
+{\f417\fswiss\fcharset163\fprq2 Verdana (Vietnamese);}{\f419\fswiss\fcharset238\fprq2 Calibri CE;}{\f420\fswiss\fcharset204\fprq2 Calibri Cyr;}{\f422\fswiss\fcharset161\fprq2 Calibri Greek;}{\f423\fswiss\fcharset162\fprq2 Calibri Tur;}
+{\f426\fswiss\fcharset186\fprq2 Calibri Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red58\green88\blue148;\red127\green127\blue127;}{\stylesheet{
+\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive 
+\ssemihidden Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f38\fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \af0 
+\ltrch\fcs0 \ul\cf2 \sbasedon10 \styrsid3422855 Hyperlink;}{\s16\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\tqc\tx4680\tqr\tx9360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 \slink17 \ssemihidden \styrsid1387125 header;}{\*\cs17 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink16 \slocked \ssemihidden \styrsid1387125 Header Char;}{
+\s18\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\tqc\tx4680\tqr\tx9360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext18 \slink19 \ssemihidden \styrsid1387125 footer;}{\*\cs19 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink18 \slocked \ssemihidden \styrsid1387125 Footer Char;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0{\lsdlockedexcept Normal;heading 1;heading 2;heading 3;heading 4;heading 5;heading 6;heading 7;heading 8;heading 9;toc 1;toc 2;toc 3;toc 4;toc 5;toc 6;toc 7;toc 8;toc 9;caption;Title;Default Paragraph Font;Subtitle;Strong;Emphasis;Table Grid;}}
+{\*\rsidtbl \rsid78362\rsid143030\rsid218127\rsid486611\rsid536493\rsid865063\rsid883043\rsid1257335\rsid1387125\rsid1520921\rsid1521594\rsid1844908\rsid2046392\rsid2050554\rsid2098553\rsid2313427\rsid2360927\rsid2367512\rsid2369391\rsid3220548
+\rsid3422855\rsid3474178\rsid3503815\rsid3548906\rsid3692402\rsid3877954\rsid4664132\rsid5003631\rsid5182162\rsid5590585\rsid5843628\rsid5968394\rsid5987837\rsid6056084\rsid6099431\rsid6559510\rsid6759540\rsid6952221\rsid6966062\rsid7157100\rsid7362907
+\rsid7496707\rsid7819820\rsid7894315\rsid7954864\rsid8348033\rsid8411880\rsid8675341\rsid8746320\rsid8872781\rsid8873416\rsid8982534\rsid8982933\rsid9131555\rsid9265722\rsid9467932\rsid9515623\rsid10123957\rsid10618184\rsid10632657\rsid10817779
+\rsid11012826\rsid11808860\rsid12132580\rsid12156149\rsid12402581\rsid13120317\rsid13395476\rsid13726563\rsid14165634\rsid14819410\rsid15015246\rsid15286262\rsid15417263\rsid15605689\rsid15744180\rsid16086924\rsid16593491\rsid16604597}{\*\generator Micros
+oft Word 11.0.0000;}{\info{\operator SFC}{\creatim\yr2013\mo7\dy29\hr9\min48}{\revtim\yr2013\mo11\dy11\hr14\min44}{\printim\yr2013\mo7\dy30\hr13\min19}{\version169}{\edmins212}{\nofpages3}{\nofwords850}{\nofchars4850}{\nofcharsws5689}
+{\vern24617}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}{\xmlns2 urn:schemas-microsoft-com:office:smarttags}}\paperw11907\paperh16839\margl864\margr720\margt720\margb720\gutter0\ltrsect 
+\deftab1134\widowctrl\ftnbj\aenddoc\donotembedsysfont0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dgmargin\dghspace110\dgvspace120\dghorigin864\dgvorigin720\dghshow0
+\dgvshow3\jcompress\viewkind1\viewscale150\rsidroot3692402 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\af0\afs22\alang1025 \ltrch\fcs0 \f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7496707 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid7496707 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid7496707 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid7496707 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\psz9\linex0\sectlinegrid299\sectdefaultcl\sectrsid6759540\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid7496707 
+\par }}{\footerr \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af37\afs16 \ltrch\fcs0 
+\f37\fs16\expnd12\expndtw60\cf18\insrsid12156149\charrsid12156149 Page}{\rtlch\fcs1 \af37\afs16 \ltrch\fcs0 \f37\fs16\insrsid12156149\charrsid12156149  | }{\field{\*\fldinst {\rtlch\fcs1 \af37\afs16 \ltrch\fcs0 \f37\fs16\insrsid12156149\charrsid12156149 
+ PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af37\afs16 \ltrch\fcs0 \b\f37\fs16\lang1024\langfe1024\noproof\insrsid1844908\charrsid1844908 1}}}\sectd \linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid7496707 
+
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\ltrrow\trowd \irow0\irowband0\ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trbrdrr\brdrs\brdrw10 \trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil 
+\cellx10335\pard\plain \ltrpar\ql \li57\ri57\sb2\sa2\nowidctlpar\intbl\brdrt\brdrs\brdrw20\brdrcf1 \brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid1257335 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\f38\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid1257335\charrsid8982933  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid6559510\charrsid8982933 Name     : }{\rtlch\fcs1 
+\ab\af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid3422855\charrsid8982933 S}{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid1257335\charrsid8982933 aw}{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid7496707\charrsid8982933 
+ Xiao Fung}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \i\f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid8982933  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\cf1\insrsid7496707\charrsid8982933 Address}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid15286262\charrsid8982933   }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid3877954\charrsid8982933 : }{\rtlch\fcs1 \af37\afs18 
+\ltrch\fcs0 \f37\fs18\cf1\insrsid8982933 No. }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid3877954\charrsid8982933 5, Jalan Melati 23, Taman}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid7496707\charrsid8982933  Sri Melati, }{
+\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid9131555 Selayang, }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid15417263 68100 {\*\xmlopen\xmlns2{\factoidname PlaceName}}{\*\xmlopen\xmlns2{\factoidname PlaceName}}
+{\*\xmlopen\xmlns2{\factoidname place}}Batu{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceType}}Caves{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}, }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid7496707\charrsid8982933 Selangor}{\rtlch\fcs1 
+\af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid8982933  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid15286262\charrsid8982933 {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Mobile}{\rtlch\fcs1 
+\af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid9467932\charrsid8982933 {\*\xmlclose}{\*\xmlclose} }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid15286262\charrsid8982933    }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\cf1\insrsid3422855\charrsid8982933 : }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid7496707\charrsid8982933 013}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid3422855\charrsid8982933 -}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\cf1\insrsid7496707\charrsid8982933 3351899}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid8982933  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid8982933\charrsid8982933 E-mail    :}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid8982933  xiaofung15@yahoo.com}{
+\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid7496707 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid8982933\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933 Resume Summary}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5843628\charrsid8982933  Latest}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Position\tab : }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid7157100\charrsid8982933 Listing In}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5843628\charrsid8982933 formation Network Administrator}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid3877954\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5843628\charrsid8982933  Company Name\tab : {\*\xmlopen\xmlns2{\factoidname City}}Bursa{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname country-region}}{\*\xmlopen\xmlns2{\factoidname place}}Malaysia
+{\*\xmlclose}{\*\xmlclose} Berhad
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid8872781 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid3877954\charrsid8982933  Working Period 
+\tab : Jan}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6952221 uary}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid3877954\charrsid8982933  2008 - July 2013}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5987837\charrsid8982933 
+
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Highest E}{\rtlch\fcs1 \af37\afs18 
+\ltrch\fcs0 \f37\fs18\insrsid3474178 ducation\tab : Bachelor's Degree }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid1844908 in}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid3503815  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid5590585 Business Computing}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Years of Experiences\tab : 8}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5843628\charrsid8982933  Years}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid2046392\charrsid8982933  Expected Salary\tab : MYR 5000 (Negotiable)}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid6952221\charrsid8982933 \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 \trowd \irow0\irowband0\ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\row \ltrrow
+}\trowd \irow1\irowband1\ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrtbl 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrb\brdrs\brdrw20\brdrcf1 \brdrr
+\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933 Employment History}{\rtlch\fcs1 
+\af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid1257335 {\rtlch\fcs1 \ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid1257335\charrsid8982933  }{\rtlch\fcs1 
+\ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 Jan 2008 }{\rtlch\fcs1 \ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid218127\charrsid8982933 \endash }{\rtlch\fcs1 \ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{
+\rtlch\fcs1 \ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5182162\charrsid8982933 Jul}{\rtlch\fcs1 \ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid218127\charrsid8982933  2013}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 
+\ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933 1. {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}Bursa{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname country-region}}Malaysia
+{\*\xmlclose}{\*\xmlclose}{\*\xmlclose} Berhad}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Position Title (Level)\tab : }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5968394\charrsid8982933 Listing Information Network Administrator }{\rtlch\fcs1 
+\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 (Senior Executive)}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Special}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5987837\charrsid8982933 ization\tab : }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid8872781\charrsid8982933 LINK Administrator}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Industry\tab \tab : }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid8872781\charrsid8982933 Finance}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Monthly Salary\tab : MYR 4000}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid10123957 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Work Description
+\tab :}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\sa200\sl276\slmult1\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid3877954 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid3877954\charrsid8982933 
+ 1) }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15605689\charrsid8982933 Provide consultancy and p}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid15605689\charrsid8982933 erform}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\f37\fs18\cf1\insrsid10618184\charrsid8982933  application admin}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid15605689\charrsid8982933 istrator tasks such as LINK system }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\f37\fs18\cf1\insrsid10618184\charrsid8982933 user p}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid15605689\charrsid8982933 rofiles maintenance/}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid10618184\charrsid8982933 
+support to the external users (Listed Issuers, Investment Banks/Advisers and External Company Secretarial Firms) and inte}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid8872781\charrsid8982933 rnal users to analyze and solve relates issues/}{
+\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f37\fs18\cf1\insrsid10618184\charrsid8982933 problems.}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f37\fs18\insrsid10618184\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5843628\charrsid8982933  2) }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid3877954\charrsid8982933 Conduct training to internal and external users to ensure the efficient us
+age of the systems, and updating the policies and procedures for the application security and training guides.}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\sa200\sl276\slmult1\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid10123957 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid3877954\charrsid8982933  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10123957\charrsid8982933 3) }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10618184\charrsid8982933 
+Facilitate the enhancement of the application system to ensure the system remain relevant, efficient and effective for dissemination of corpo
+rate information and in line with the changes in business requirements or changes to the rules/regulations of the authorities.}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \fs18\insrsid10123957\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\sa200\sl276\slmult1\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid10618184 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid10123957\charrsid8982933  4) }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10618184\charrsid8982933 Participate in the user acceptance test and post implementation for system enhancements.}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\fs18\insrsid10618184\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid6952221 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10618184\charrsid8982933  }{\rtlch\fcs1 
+\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10123957\charrsid8982933 5) }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10618184\charrsid8982933 Undertake the collation of information f}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid486611 
+rom the relevant divisions, to }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10618184\charrsid8982933 prepare }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid486611 statistics and reports to}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid10618184\charrsid8982933  the Senior Managements.}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6952221 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid9265722 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \i\f37\fs18\insrsid486611\charrsid486611  (}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \i\f37\fs18\insrsid9265722\charrsid486611 **Reason for leaving: Studying and seeking for better career opportunity}{\rtlch\fcs1 
+\af37\afs18 \ltrch\fcs0 \i\f37\fs18\insrsid486611\charrsid486611 )}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \i\f37\fs18\insrsid6952221\charrsid486611 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6952221\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid5843628 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10123957\charrsid8982933  }{\rtlch\fcs1 
+\ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 Aug 2005 - Dec 2007}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 
+\ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933 2. Prudential Services {\*\xmlopen\xmlns2{\factoidname place}}Asia{\*\xmlclose} Sdn Bhd}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Position Title (Level)\tab : Business Administration Executive (Junior Executive)}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Specialization\tab : }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid5987837\charrsid8982933 Administrative Support}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Industry\tab \tab : Insurance}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Monthly Salary\tab : MYR 2600}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid10123957 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Work Description
+\tab :}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 
+ 1) Check and ensure the insurance application received compliance with the policy, standards and guidelines}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid9265722 , and r}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid7496707\charrsid8982933 ecord, produce and prepare the statistics reports and information required.}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid9265722  2}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 ) Support Supervisor by continuously review processes, identi
+fy and resolve service gaps through constructive feedback, and implement process improvements where appropriate.}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid10123957 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid9265722  3}{\rtlch\fcs1 \af37\afs18 
+\ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 ) Undertake projects and duties allocated }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid9265722 and}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10123957\charrsid8982933 
+ training new staffs on}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  bus}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid1257335\charrsid8982933 iness application processes.}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid1257335 {\rtlch\fcs1 \ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid1257335\charrsid8982933  }{\rtlch\fcs1 
+\ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6952221 
+\par }{\rtlch\fcs1 \ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 Jan 2005 - July 2005}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 
+\ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933 3. Strategic Management Planning & Practices Sdn Bhd}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Position Title (Level)\tab : Corporate Services Executive (Junior Executive)}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid1520921\charrsid8982933  Specialization\tab : }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 Administrative Support }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Industry\tab \tab : Consulting (Business & Management)}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Monthly Salary\tab : MYR 1600}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid10123957 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Work Description
+\tab :}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 
+ 1) Register external delegates from incoming registration forms, generate invoices and receive/record the payments.}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  2) Assist Company Directors in all manner of administrative work. }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid13120317\charrsid8982933 These include}{\rtlch\fcs1 
+\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  typing letters, preparing proposals and profiles, and handle company's relates payment and etc.}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  3) Work closely with Operations and Marketing department fo}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid536493\charrsid8982933 r event related duties.\tab }{
+\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid13120317\charrsid8982933 
+\par \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 \trowd \irow1\irowband1\ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 
+\trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\row \ltrrow}\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrb\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 
+\ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933  Educational Background}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid536493 {\rtlch\fcs1 \ai\af37\afs18 \ltrch\fcs0 \i\f37\fs18\insrsid536493\charrsid8982933  }{\rtlch\fcs1 
+\ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 Graduation Date: 2004}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 
+\ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933 Bachelor's Degree of Computer Science/Information Technology}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Major\tab \tab : Business Computing}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Institute/University\tab : {\*\xmlopen\xmlns2{\factoidname PlaceName}}Asia{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceName}}Pacific{\*\xmlclose} 
+{\*\xmlopen\xmlns2{\factoidname PlaceType}}University{\*\xmlclose} of Technology and Innovation (APU), {\*\xmlopen\xmlns2{\factoidname country-region}}{\*\xmlopen\xmlns2{\factoidname place}}Malaysia}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 {\*\xmlclose}{\*\xmlclose}
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Grade\tab \tab : Grade C/2nd Class Lower}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid536493 {\rtlch\fcs1 \ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid536493\charrsid8982933  }{\rtlch\fcs1 
+\ai\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 Graduation Date: 2003}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 
+\ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933 Advanced/Higher/Graduate Diploma of Computer Science/Information Technology}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Major\tab \tab : Business with Information Technology}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Institute/University\tab : {\*\xmlopen\xmlns2{\factoidname PlaceName}}Asia{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceName}}Pacific{\*\xmlclose} 
+{\*\xmlopen\xmlns2{\factoidname PlaceType}}University{\*\xmlclose} of Technology and Innovation (APU), {\*\xmlopen\xmlns2{\factoidname country-region}}{\*\xmlopen\xmlns2{\factoidname place}}Malaysia}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 {\*\xmlclose}{\*\xmlclose}
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Grade\tab \tab : Grade C/2nd Class Lower}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid486611\charrsid8982933 \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 \trowd \irow2\irowband2\ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\row \ltrrow
+}\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrb\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{
+\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933 Skills}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf17\insrsid14165634\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 
+\ltrch\fcs0 \b\f37\fs18\ul\cf17\insrsid7496707\charrsid8982933 Proficiency}{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\cf17\insrsid7496707\charrsid8982933 : }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\cf17\insrsid14165634\charrsid8982933 
+
+\par  }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\cf17\insrsid7496707\charrsid8982933 Advanced - }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf17\insrsid8675341\charrsid8982933 Highly experienced}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\cf17\insrsid15744180\charrsid8982933 
+\par }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\cf17\insrsid15744180\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\cf17\insrsid7496707\charrsid8982933 Intermediate - }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\cf17\insrsid7496707\charrsid8982933 Familiar with}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf17\insrsid8675341\charrsid8982933  all the basic functionalities}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\cf17\insrsid15744180\charrsid8982933 
+\par }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\cf17\insrsid15744180\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\cf17\insrsid7496707\charrsid8982933 Beginner - }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\cf17\insrsid7496707\charrsid8982933 Just started using or learning the skill}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\insrsid15744180\charrsid8982933 Skill\tab \tab \tab }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 
+\b\f37\fs18\insrsid7496707\charrsid8982933 Years\tab \tab Proficiency}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  ---------------------------------------------------------------------------------------------------------}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid6099431\charrsid8982933 --}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid11808860\charrsid8982933  Microsoft Excel}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  2007\tab \tab >5\tab \tab Advanced}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid11808860\charrsid8982933  Microsoft Word}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  2007\tab \tab >5\tab \tab Advanced
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid2369391  Microsoft PowerPoint 2007\tab }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid78362\charrsid8982933 >5\tab \tab Advanced}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid78362\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid78362\charrsid8982933  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid2369391 Lotus Notes\tab \tab }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 >5\tab \tab 
+Advanced}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid11808860\charrsid8982933  Internet Applications}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 \tab \tab >5\tab \tab Advanced}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 
+\par 
+\par \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 \trowd \irow3\irowband3\ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 
+\trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\row \ltrrow}\trowd \irow4\irowband4\ltrrow\ts11\trrh60\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid6759540\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\pard \ltrpar
+\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrb\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 
+\ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933 Languages}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf17\insrsid7496707\charrsid8982933 (}{\rtlch\fcs1 \ab\af37\afs18 
+\ltrch\fcs0 \b\f37\fs18\ul\cf17\insrsid7496707\charrsid8982933 Proficiency}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf17\insrsid7496707\charrsid8982933 : 0=}{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\cf17\insrsid7496707\charrsid8982933 Poor
+}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\cf17\insrsid7496707\charrsid8982933  - 10=}{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\cf17\insrsid7496707\charrsid8982933 Excellent}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\cf17\insrsid7496707\charrsid8982933 )}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\insrsid15744180\charrsid8982933 Language\tab \tab \tab }{\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 
+\b\f37\fs18\insrsid7496707\charrsid8982933    Spoken\tab \tab Written}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  -------------------------------------------------------------------------------------}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6099431\charrsid8982933 --}{
+\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6559510\charrsid8982933  English}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 \tab \tab \tab     8\tab \tab 8}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6559510\charrsid8982933  Chinese}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 \tab \tab \tab     8\tab \tab 8}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid15417263 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Bahasa 
+{\*\xmlopen\xmlns2{\factoidname country-region}}{\*\xmlopen\xmlns2{\factoidname place}}Malaysia}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid14165634\charrsid8982933 {\*\xmlclose}{\*\xmlclose}\tab \tab     8}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid7496707\charrsid8982933 \tab \tab }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid78362\charrsid8982933 8}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid13120317 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6952221\charrsid15417263 \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 \trowd \irow4\irowband4\ltrrow\ts11\trrh60\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid6759540\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\row \ltrrow
+}\trowd \irow5\irowband5\ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrtbl 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrb\brdrs\brdrw20\brdrcf1 \brdrr
+\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933  Personal Particulars & Preferences}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Date of Birth\tab }{\rtlch\fcs1 
+\af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 : 15 Jan}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid11012826\charrsid8982933 uary}{\rtlch\fcs1 \af37\afs18 
+\ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  1981}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Nationality\tab \tab }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 : 
+{\*\xmlopen\xmlns2{\factoidname country-region}}{\*\xmlopen\xmlns2{\factoidname place}}Malaysia}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 {\*\xmlclose}{\*\xmlclose}
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Gender\tab \tab }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 : Female}{
+\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  IC No.\tab \tab }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 
+: 810115-14-5854}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Possess Own Transport\tab }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 : Yes
+}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263  Expected Monthly Salary}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 : MYR }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6966062\charrsid8982933 
+5000}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Availability\tab \tab }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263  }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 
+: Immediately}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid6952221\charrsid8982933 \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 \trowd \irow5\irowband5\ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\row \ltrrow
+}\trowd \irow6\irowband6\lastrow \ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt
+\brdrtbl \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrb\brdrs\brdrw20\brdrcf1 \brdrr
+\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \ab\af37\afs18 \ltrch\fcs0 \b\f37\fs18\insrsid7496707\charrsid8982933  Additional Info}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\ul\insrsid7496707\charrsid8982933 Objectives:}{\rtlch\fcs1 
+\af0\afs18 \ltrch\fcs0 \f0\fs18\ul\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 I'm looking for a chall
+enging career, where I could contribute my knowledge, effort, creativity, and support to the company by utilizing my communication and problem solving skills, and eager to learn and to take responsibilities for the tasks assigned.}{\rtlch\fcs1 \af0\afs18 
+\ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid536493\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\ul\insrsid7496707\charrsid8982933 Certificates:}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\ul\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6966062\charrsid8982933 2013 - }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10123957\charrsid8982933 PRINCE2\'ae}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid9265722  (PRojects IN}{
+\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263  Control}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid14819410 led}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263  Environment}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid9265722 s}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263 )}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6966062\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid6966062 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 2012 - }{
+\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10123957\charrsid8982933 High Impact Presentation Skills (Neuro Linguistic Programming)
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6966062\charrsid8982933 2006 - Effective Organizational Skills}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid6966062\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid3422855\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid2313427 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\ul\insrsid2313427\charrsid8982933 Achievements:}{
+\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\ul\insrsid2313427\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid2313427\charrsid8982933 2006 - Great Performer Award for Technical Services at Prudential Services {\*\xmlopen\xmlns2{\factoidname place}}Asia}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid2313427\charrsid8982933 {\*\xmlclose}
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid2313427\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\ul\insrsid2313427\charrsid8982933 Application}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\ul\insrsid14819410 s /}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\ul\insrsid2313427\charrsid8982933  p}{
+\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\ul\insrsid14819410 roficiencies}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\ul\insrsid7496707\charrsid8982933 :}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\ul\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 - Microsoft Windows}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263 - Microsoft Office (include Word, Excel, Power-}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 Point, }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 
+\f37\fs18\insrsid15417263 Access, }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 Visio, Project, and Outlook)}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263 - Internet Browsers (include}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933  Internet Explorer, Mozilla Firefox, Google Chrome, and Safari)}{\rtlch\fcs1 
+\af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 - Adobe Reader}{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid15417263 - UBS Accounting Software
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid14819410 - Critrix}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid14819410\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 - Novell GroupWise}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 - Lotus Notes}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 - SAP}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 - Good communication skills}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 - Able to multi-task and prioritize workload}{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 
+\par }\pard \ltrpar\ql \li57\ri57\sb60\nowidctlpar\intbl\brdrl\brdrs\brdrw20\brdrcf1 \brdrr\brdrs\brdrw20\brdrcf1 \wrapdefault\faauto\rin57\lin57\pararsid1257335 {\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid7496707\charrsid8982933 
+- Strong analytical and problem solving abilities\tab \tab \tab \tab }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid6966062\charrsid8982933 
+\par }{\rtlch\fcs1 \af37\afs18 \ltrch\fcs0 \f37\fs18\insrsid10123957\charrsid8982933 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f0\fs18\insrsid7496707\charrsid8982933 \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 
+\f0\fs18\insrsid7496707\charrsid8982933 \trowd \irow6\irowband6\lastrow \ltrrow\ts11\trleft-5\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trftsWidth3\trwWidth10340\trftsWidthB3\trftsWidthA3\tblrsid7954864\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth10340\clshdrawnil \cellx10335\row 
+}\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \fs18\insrsid7496707\charrsid8982933 
+\par }}

@@ -1,0 +1,238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>..::Wedding Penguin::..</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+<link href="style1.css" type="text/css" rel="stylesheet"  />
+<link href="font.css" type="text/css" rel="stylesheet"  />
+<link href="responsiv.css" type="text/css" rel="stylesheet"  />
+
+<link rel="stylesheet" href="css/jQueryTab.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/animation.css" type="text/css" media="screen" />
+
+ <!------------------------------------menu---------------------------->	
+		<link type="text/css" rel="stylesheet" href="css/jquery.mmenu.css" />
+		<link rel="stylesheet" href="css/smk-accordion.css" />
+    	<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
+        
+		<script type="text/javascript" src="js/jquery-v1.7.1.js"></script>
+		<script type="text/javascript" src="js/jquery-hover-effect.js"></script>
+		<script type="text/javascript" src="js/jquery.mmenu.js"></script>
+		<script type="text/javascript">
+			$(function() {
+
+				var pos 	= 'mm-top mm-right mm-bottom',
+					zpos	= 'mm-front mm-next';
+
+				var $html 	= $('html'),
+					$menu	= $('nav#menu'),
+					$both	= $html.add( $menu );
+
+				$menu.mmenu();
+
+				//	Add the position-classnames onChange
+				$('input[name="pos"]').change(function() {
+					$both.removeClass( pos ).addClass( 'mm-' + this.value );
+				});
+				$('input[name="zpos"]').change(function() {
+					$both.removeClass( zpos ).addClass( 'mm-' + this.value );
+				});
+			});
+		</script>
+<!---------------menu end-------------->
+
+</head>
+<body>
+ <!--------------------menu----------->
+<nav id="menu">
+		<ul>
+				<li><a href="index.htm">Home</a></li>
+				<li><a href="aboutus.htm">About Us</a></li>
+				<li><a href="#">Products</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Contact Us</a></li>
+		</ul>
+</nav>
+<!--------------menu end------------>
+<!--------------------------header----------------------->
+<div id="header_bar">
+		<div id="header_content">
+        		<div class="mobile_menu">
+                		<a href="#menu"><img src="images/index.png"  /></a>
+                </div>
+                <div class="mobile_menu" style="float:right; z-index:999; position:absolute; right:10px;">
+                		<a href="#"><img src="images/edit.png"  /></a>
+                </div>
+        		<div id="header_leftbox">
+                		<img src="images/headimg1.jpg"/>
+                        <span id="head_name">contact@gmail.com<br />Jaka & Adam</span>
+                </div>
+               
+                <div id="header_linkbox" style="margin-top:17px;">
+                		<img src="images/message.png" id="message"/>
+                        <img src="images/q.png" id="q"  />
+                </div>
+                <div id="logo_box">
+                		<a href="index.htm"><img src="images/logo.png"/></a>
+                </div>
+                
+        </div>
+</div>
+<div id="border_bar">
+
+</div>
+<!--------------------------header end----------------------->
+
+<!-------------------------menu bar----------------------->
+<div id="menu_bar" style="height:45px; display:none;">
+		<div id="menu_box">
+   		 		<div id="menu_box2">
+                          <ul>
+                                  <li><a href="#">Tools</a>
+                                          <ul>
+                                                  <li><a href="#">Todo</a></li>
+                                                  <li><a href="#">Vendor</a></li>
+                                                  <li><a href="#">Guest List</a></li>
+                                                   <li><a href="#">Budget</a></li>
+                                                  <li><a href="#">Itinerary</a></li>
+                                          </ul>
+                                  </li>
+                                  <li><a href="aboutus.htm">Website</a></li>
+                                  <li><a href="#">Gallery</a>
+                                  		<ul>
+                                                  <li><a href="#">View Photos</a></li>
+                                                  <li><a href="#">Live Feed</a></li>
+                                          </ul>
+                                  </li>
+                                  <li><a href="#">Profile</a></li>
+                                  <li><a href="#" style="width:150px;">Are you a vendor?</a></li>
+                          </ul>
+                 </div>
+        </div>
+</div>
+<!-------------------------menu bar end----------------------->
+
+<!-------------------------content----------------------->
+ <div id="container" style="min-height:500px;">
+        <div id="container_content">
+             <div class="form_tab">
+              <h3 style="text-align:left;">Login</h3>
+               <div class="tabs-7">
+                        <ul class="tabs">
+                            <li><a href="#tab25">Login</a></li>
+                            <li><a href="#tab26">Sign Up</a></li>
+                            <li><a href="#tab26" style="border-bottom:none;">&nbsp;</a></li>
+                        </ul>
+                        <section class="tab_content_wrapper">
+                            <article class="tab_content" id="tab25" style=" height:200px;">
+                         
+                               <table class="table1" style="height:200px;">
+                                        
+                                         <tr>
+                                                <td>
+                                                    User Name :
+                                                    <br />
+                                                    <input type="text" name="" value="" class="input" />
+                                                </td>
+                                        </tr>
+                                       
+                                         <tr>
+                                                <td>
+                                                    Password :
+                                                    <br />
+                                                    <input type="text" name="" value="" class="input" />
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                                <td>
+                                                    <input type="button" name="" value="submit" class="button_box" />
+                                                </td>
+                                        </tr>
+                               </table>
+                              
+                            </article>
+                            <article class="tab_content" id="tab26" style=" height:350px;">
+                            		 <table class="table1" style="height:350px;">
+                                        
+                                         <tr>
+                                                <td>
+                                                    Login :
+                                                    <br />
+                                                    <input type="text" name="" value="" class="input" />
+                                                </td>
+                                        </tr>
+                                       
+                                         <tr>
+                                                <td>
+                                                    Email :
+                                                    <br />
+                                                    <input type="text" name="" value="" class="input" />
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                                <td>
+                                                    Password :
+                                                    <br />
+                                                    <input type="password" name="" value="" class="input" />
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                                <td>
+                                                    Confirm Password :
+                                                    <br />
+                                                    <input type="password" name="" value="" class="input" />
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                                <td>
+                                                    <input type="button" name="" value="submit" class="button_box" />
+                                                </td>
+                                        </tr>
+                               </table>
+                            </article>
+                           
+                           
+                        </section>
+                    </div>
+                    
+                    
+                    </div>
+                    <!-- jQuery --> 
+                    <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>  -->
+                    
+                    <!-- jQueryTab.js --> 
+                    <script src="js/jQueryTab.js"></script> 
+                    <script type="text/javascript">
+                    // initializing jQueryTab plugin 
+                    
+                    
+                    $('.tabs-7').jQueryTab({
+                        initialTab: 2,
+                        tabInTransition: 'fadeIn',
+                        tabOutTransition: 'fadeOut',
+                        cookieName: 'active-tab-7'
+                        
+                    });
+                    
+                    
+                    </script>
+                
+            </div>
+  </div>
+<!-------------------------content end----------------------->
+
+<!-------------------------footer----------------------->
+<div id="footer">
+	<div id="footer_content">
+		&copy;Copyright All Rights Reserved 2014
+	</div>
+</div>
+<!-------------------------footer bar----------------------->
+
+</body>
+</html>

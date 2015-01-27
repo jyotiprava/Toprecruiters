@@ -1,0 +1,734 @@
+{\rtf\ansi\deff0\fs20
+{\fonttbl{\f0 Times New Roman;}{\f1 Arial;}}
+{\colortbl;\red0\green0\blue0;\red127\green127\blue127;\red255\green255\blue255;\red51\green51\blue51;\red89\green89\blue89;}
+{\info
+}
+\paperw11907 \paperh16840 \deftab1298 \margl851 \margr567 \margt1134 \margb1134 \pgnstart1\ftnnar \aftnnrlc \ftnstart1 \aftnstart1 {\header }
+{\footer {\fs16 \f1 \line Copyright @ 2014 JobStreet.com}
+}
+
+\pard\trowd\trql\clvmgf\clpadft3\clpadt227 \clpadfl3\clpadl284 \cellx2495\clvmgf\clpadft3\clpadt113 \clpadfb3\clpadb57 \cellx10490
+
+
+\intbl\itap2
+\qc\ql {\*\shppict {\pict\jpegblip\picscalex100\picscaley100\picwgoal1985\pichgoal1985 ffd8ffe000104a46494600010100000100010000fffe003e43524541544f523a2067642d6a7065672076312e3020287573696e6720494a47204a50454720763632292c2064656661756c74207175616c6974790affdb004300080606070605080707070909080a0c140d0c0b0b0c1912130f141d1a1f1e1d1a1c1c20242e2720222c231c1c2837292c30313434341f27393d38323c2e333432ffdb0043010909090c0b0c180d0d1832211c213232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232ffc00011080096009603012200021101031101ffc4001f0000010501010101010100000000000000000102030405060708090a0bffc400b5100002010303020403050504040000017d01020300041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faffc4001f0100030101010101010101010000000000000102030405060708090a0bffc400b51100020102040403040705040400010277000102031104052131061241510761711322328108144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a434445464748494a535455565758595a636465666768696a737475767778797a82838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faffda000c03010002110311003f00e7e385875ac6f124445b6ec6067bfd2ba58232ca0eee45737e317c491419ce79c0a85b9cf1d59cdd9dbb3b7fb35b50c1c8514dd3adc04f994f02b56dedc09d1b6121b8a8948d8bda75983102076ad6b0b789e5f980a7d844120f2d6324b1ada82c993680b5cd39d8a4ae6c69c8aa8318c56dda804f1542da2db1018ad0b48f6c82b28cf52b94d58a207151dcc414e6aec51e10556b8dd93c574625ae444adccd072c460f15048304f1d6ac1e1cf201a8a4c6793cd79ed9d0d1427049cfa553752c73c55f982f3549c60746c7b0aa8b2194668c32139acdb98d1b271d2b4e5fb9c6e1f5159f2af2df30ada3211c2ebfa6f90e6ee05c64fcdf5ed51476575aad92b48d1bb460152c4e47d38f6aea750412c4c859718ef55b4db49d94f973ed41c10141e95db4e5789cf5bddd4afe13d0f4ed56f6ee3d5628a5f291768949183939c628ae77c55249a7ea01e1f30b3f0cca3ad15b2083ba3b1b0b9b3b897ca8e55f30f66c0cd727e35b2ba8afd279227d88463095d9787fc29ba35bb9df0474038feb5aeda747a94be54e5644047de4cf1e95c8ea38b3a7d942fa1e3f69ab6d709345b54e06ecd75b646178637570c0e7041a7f8bfc3f6914bb228d61da38c2f53815ca5a5fdce8d32c572a5a039c13c56a9f3aba32692763d57c3d6ad70c38c81d0fe15d7c5a780bcaf3589e0b96d2e34c8a4b791583aa9383920e335d80032390335c13d5ea5a5a1563b7dabd2ad45b6320f7a7ed1f9d2794179271f5a8eba0cd3b671200bdea1bc8dc1ca9e07b5556d4ad34f512c9320ff677548badd8de478495727deba24dce9d9ee46cf43325858ca5ce7355657da4e4d6cb98db2460d665d4219b2462b89ab2374ccd96e40aaa670c4819a75d8084f159c2eb63e3fa56905a12d0f9e61b48c1aa4ff39ce7ad3a5983b919eb504b284c56c90d2d0a574bf391b979e39a7e9a9e43bf46040e87eb50dc48aedc8cfe353698d8b80a546d70792dd302ba696e73e217ba713e341fe9a99f53453fc6e317ea31dcd15d099943e13d8a296d2de358e42154f51e950c5aa697777c60b255529d4818cfe95cfeaa2417f242ac5f71fba2ae7877c337367a809e78ca3c84285241f94e39fd2b865b347a4e9a8abdcafe35b55c5bc8402cd904fe55ca5fe8ababda08c262541f290bfe7d2bd0fc676aaf1c516d230383efc545e17d2da578cb8e17b8eb42a8e31d0e571bbb9e3ba6eadabf83754601a440ad868589da4723e95edfe15f17d87896d432384b9c7cd1b678e3b64547e3af015b6bda71b881717908c83c7cc011c1e3d335e2b7b35ee837305d5a62178d8c6e17821c0e5783db35b28c6bc6ef725c9c5d8fa5c82b86ec0723a62b0b57bf9a4664b6df9c7f7ab8bf0ffc5bb5bab44b5d506cb9e808070c3d7bfbd6b3fc40f0dc6ecad7081c8e3f76dcfe9582a528bd5157b991acc17e9b669e59006ec5891f966b9897c472e99740acf2e179fbcc2bb4bbd7f4ed662ff46992451d0608fe75cbea7a2c176db8a83e99e6b55512766871836ae6a685f1096e2e42cd3301e849aeda2d6a0ba40caf907debc42e7454b5959918ab0f4a9b49f105dd84fe4c8e5d7381c9e2a254e335ee8d2b1eb77574923900d664b8f3723ad655aea5e790dbb248f7ab425dec3ae6b251b1690a8199c9351ca1c63701edc5695bc6a17e6a86ec2842431e2b44f506f530d89df92075c74ad2d2215791c301ea3e5fad67b0937e771c56f6916ce22695c9f9871ed5ac16a72e265ee9e79e3718d497ea68a778e78d497ea68ae95b19d37eea3d6574cf36fa2beb71bd979707fcfd2ba2b592492e7ed0dd08d99f4ff38abf1c496d1165519c60546a91dbc24a31218e4afbd7034d1e839f323135b885e5ec6a4f0a41fe55b1a5d925bc20a77e6aa3832dc06c60f415ad6ec76853db8ac1bd48d8b312e5f03d39af33f8a1f0d8ead64fab69519376877490823f7809ea38ebc93c9ed5ea31fa67156422989948e0f5ae9c32f7ae6723e1b752252bdf3f88ae8b42d3adb508c4ba8ca4a28db1a1fe119ce3a7d6bb8f8cfe148ac6ebfb5ad1176ccfb645c9e7a9cff2ae5b4db97d3ee229212cd818c6392335d0ea3943ddd0718ea5e7d0bc3263de2fcdbb63e5d871cffdf34d0da8d885167aa7daa01d16524f1f8014ef134916b5a7a7d8e1dac873b477ebf5ac3d23469104934e0c6db4e01f5a95156d58f54f635a5d6245ff008fdb62a0ff001afddfe75014b7b961241824f39a4b29891244f96d87f3eb576c7407d46477b2cc7703907d7dbbfbd47bab52eccd1d32e711ec771b8718ad4fb5795c87c1f4ae516f9a3ba96d265d97509daf9e848eb8ab325cc9c9718cf4cd438f70b9d03eb4557994566dc788e1504349cd73b72925c9215b15952e8170c19fcc5fc49ff0ada318adc995ceced75eb79ee61891b25dc2fe66bd4618923b14007fcb307f4af07f0ee9570bacd9e76e04e873cf3f30e2bdf483f67501482171f4e2aec96b138311ba478ff8ef1fda63ea7f9d14be3d18d4d7ea7f9d156b62e9fc28f6cbbd625b6736f244f2228dd9519da3d4d453f8cec25582d63da6491c270c3bfe356e2884b712897e607e5c95c015e7173a25cd878bedff0074e62f3918300704715c53f89c4eda32e6a6ae7a6c5f31463d491cfa56840e55b18350db440c2bd8f06a49494e9d6b9857b9a31baf7ab68e0a1e4564c329f973e95347285c866e2b5a53e560e37391f1be8f07886c65b39cec56fe21d57dc57875fe997ba1b476d7d82a3eecabf74fd4e057d0baae1e43b50918ae1b59d363bd8992540fe808e9442a38bb7434504d1e6503e24520af51c83574dc2344ca632cdd3d2a2bfd0becd72cb1bba60f04838fe755b6df5bb00a12403dc0ae8f75ad096bb9a90696f244248edb606c649cf35a1a96ad63e18d18410aabdecab963bfee74ebcfd6b9cbbd7b5b92dd6d62b7d801182bcff4ad2d03c0fabf88e73777c921897925d08069a492bcd89a6de879edcdc5d4d76f76db8393907157824971009ae2e4851dcf19aed7c65e1b8b48d1a7210064c755c7f1015ce0b455d3a385c02187de1cd5aa8a51ba21c6cec65c46da59d628fce6909e31ff00ebad781ef13f7705ceec7fcb39140fe99a7d869b0d9cc2651bdbb7b56a697a38d435b8090544922a951e84814db4c1e8aec8f47f14ff0064eb301bab747553b6400fdd071cfd6bd8ac355b0d56d44965709226c0c555812323a1c1e2bcd7c7fe06361343aae9ea7c8202cc304e08007f8d729a05e6a165e208069ace1ddc064077061dff004cd68a2a4ae8e4a918d45cc99bfe3f1ff13353ee7f9d1478ecb35f44ce006232403d0d14d21d3f851ec7a08920b08e2964696451cb39c927d79ad09a3864d8cc80b29e091d2b22c66d8ca8e79f515ab2b828a41006e15e6545252d4ef4d38a71d8d18880179e948e473f5a8a37e0734acdc1c9a87d842f98011cd35a6cf1dfd6abc92ed3d3b557fb5ac780dc9a7629348b53b874f9b9c7a560de7959259473ed56eeb5044070d8ae5752d6017c2b1fd69daeca5a999acd9c73ee74ce41e84fb5602d9cd2dc88910b312000056f5b97d46ee2883300ce33f9d7a4693e18b242b32428d2280725475ad17916e092bb303c2df0e8c91a5d6a214038608507f8d7a19b1b7d3f4e30db44a8807402a6b6f3976ac80041c63d2a3d4ee9618194f7adad1f66df539b572b1e31e3db717de65b393b4800fe75e6c60bab05f265433c43eeb0e303e9cd7a8f8a7e7bd76ec7fc4d724d096738c63deb3a72691535ef18f69736a78f3003fdd6e2baaf0c9b65d66099ae23544c312cc00e08ac36d26195896b55c9ee302ba7f0bf816c7529257ba6b8589470124c56d14998567683b977c65e31b092ca5d36cd96e25906d2179c71c76f7aade05f0a0b189b52bc8c09a4198d59795c83fcf35d0d9f80b40d26f3ed115b34b2ff00d36c3fd0f4ad799b6aec0a0003031d80add7c36479ee6adcb13c8be201ff00899af1dcd15178fdf3a9afd4d1548e9a7f0a3d6e7b06b29952372c8c730c8dd4fb1fd69f25dac906eddca9cf15a7344ad1b417382ae38c741ee2b9b9ccb14d35bba833a8dd95e8e31d47d32056b8bc2aaabda477fccc3098871bc267436f70240b83d306a6f3373303d6b98d32fb748149e437f5ade8a50771c578938b8bd4f513ba1e5f71209ac9bf95a3638278ab52361c9ce2ab5d22bdbb3b9e28e825b9c9ea1aa5c313b326b356daeeee5ca8233ea6a6babe8a29d950671deacd9ea4669b99173e82b68a763452499bba368e6d42c8c4990723db9ab577e36fec594c5202ad8e0f3834c5d44c56a02b06cd63eaa21d422db74819483823a8a12b3d4d9554d5ac5f8fe284534a91f98e096f9bad685f78b609adb2b2ee2475e735e4ba8e95159bf990bee5cf03d28b79a6e3a63a568e9a96b7214d1d7ea176b7ec5891d2b1e34caf5069234764dcd8e6a68621bfe5c103b542443b3d4b705b798caa006cf418af4ed2ac174ed352120648cb7ebfe3585e15d0816fb64c9841ca83ebc57533382315d14e1dcf2f155b9a5caba14ae5f0a79ed8ac3bb9b08467815a576e30c49c5605ecabb0e0d6a9591ce8f2ff001c4a5b5153f5a2abf8c9f3a829fad156764363deacb54b5d6b4e4bab660437e79f43ef54f50862bd4f2d890e87314a3fe59b76ff001af1af0378a25d3ee96d6572370c2b1c6dea3e53e83be7ad7b1457705f5b974386fe253d47b1af4213fb4b63cfab49c5d8c3918fda3332f9538e33fc32e3d3fcf7ad6b4bc63172dce40c7a532ea38a60d1cc85971c9e98f7acc54934e943097cd818e41007cbf5ae4c6e12338fb481d584c4b4f9267444ee0589ef597a9ce52074e6afdbce2540436437351dddb798b9c66bc45bd8f4d2bb38783c3cba94a4bb1507b9ad58be1f400663bc7471c8231fe15b96b1043d31ed5a2ef98b01864568a4cd52b1c74ba46a7a7e0249e705feff007fc85507d720b795a3bf82447c60123033f9d6d6adadcb6448906e51d48ae627d734cd45cab32e7a307c0feb5b45736e8de0a0d59ee3cdada5f5c79df69409d76935135ac60ca23da501eb9f7acabbb3b6967ff462553d989feb576cf4f9fe54466627a281d6ab630aaa312cc04ee112a127b0aef7c31e133201777abb50f2139cd3fc23e11f2505e6a08777f0a90476aee800a30063e9571a7d59e556c43f86240eab1c615401f4acb9dbe63cd5fb960061460563dcb9dac6b548e3bdca17720c302d5817d20c1f9bb55dbc99831ac899f716cfa53b58d628f36f17106f54e7d68a3c5a07db947d68a11d71d8e5bcc28032eedddb0d8c7bd7aef81f5f9756d3ca1917edb6e3e603199173e9f90cd78fb72d5a9a2eaf3e81a95bea16e4928c37a06c075ce4a9f638ae884b9593569f3c6c7bda5dadc820b6c97a004720fb8f4a82e576ed5273b81c92300fae7d3daa284dbeb9a726a5a6c9b19d32cbd4ab0fcb2320d3a2bbc8586e76893a61b8071dff00fad5d49db589e775d486daf64b398249feaf3f21ec3fc6ba28a649a3dcad91585796a2688a463773d0f1faf6c56241ae4ba4dc9b79dcedde5413db1fcebccc4e193973451e8e1ebb6b965b9dd7940e0ae334e10939040ac5b2d76192e14330da4f526a69fc4b6b1236082cad8faf15c3ecdded63bd5433f5fd384a8cbc0183fcabcd2e34275bd38c804f5aed350f1324e485231d339ac58aefcfb820f7e6b48c649039223b5b01046818b13e9839af4cf05f871422dfdd21dcdcc6ac3a0c7ff5eb9bf0f699fda3aac31332800ee392092073d3f0af59851618c22285551b401db15d14e1a5d9e7e2ab7d94484609c7e43a535db03ad29a8a6385ad1ab6a70dca3732f3d6b22edfe43cd5f9d8649ac4d426010e29d98d1917ac0b9c3565be096f9aa7b97cc84fb1aa658e5b2bdaa5c4de2703e2d03edcbcd14df151cdf0e3d68a674c763928df713c76a9038f2c6e5c8e94515a3343b7f877adde5b5fbdaa4ae622bbc2b312142f50076ce6bd5e4b58355b36b831223c6031f94753dc7bf14515d54be0b9e76274a9a194973259cfe4c8cd2a4980a49e41f73dea8788b4b496d25972bb97e6c919c64f6f4a28a72f7a3a9317669a3cff00fb66eacae1adcc8ce437dec9a749ae4cd2720f2b9ebef4515e7c92573d486a8a9f6a90b0f98e0fbd3a2d62481cb05c9e9d68a292dcbe85683c5dab58eba9a85b5cc88f091840e7691e98cfa57d2de11d7cf893c3d6da8bc5e5c8e8378cf538049fd68a2b45b1c38a4924cdea8663f2d14537b1c4635c36335cd5fca41345141a43731263bdc9c91c540c3e6c64f4f5a28a9ea6e701e2938bfc7a134514523a23b1ffd9}}{\nestcell{\nonesttables\par}\pard}
+{\*\nesttableprops \trowd\trql\trrh1701\clvertalc\cellx1985\nestrow}
+
+\intbl\itap2
+\qc\qc \sb24 \sa24 {\fs18 \f1 \cf3 Expected Salary:}
+{\nestcell{\nonesttables\par}\pard}
+{\*\nesttableprops \trowd\trql\clcbpat4 \clvertalc\clpadfl3\clpadl57 \cellx1985\nestrow}
+
+\intbl\itap2
+\qc\qc \sb24 \sa24 {\fs18 \f1 \cf3 \b MYR 6,000\b0 }
+{\nestcell{\nonesttables\par}\pard}
+{\*\nesttableprops \trowd\trql\clcbpat4 \clvertalc\clpadfb3\clpadb57 \cellx1985\nestrow}
+\intbl\itap1\~\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs28 \f1 \b Jean Ping, Darren Khor\b0 \line }
+}\intbl\itap1
+\ql{\fs24 \f1 Manager - Retail Marketing at Hatten Brand Management Sdn Bhd}
+\cell
+
+\row
+\trowd\trql\clvmrg\cellx2495\clvmgf\cellx10490
+
+{}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sa124 {\fs16 \f1 (+60) 0166652377 | foxdie5@yahoo.com | 32 years old | Ampang, Selangor}
+\cell
+
+\row
+\trowd\trql\clvmrg\cellx2495\cellx3629\cellx10490
+
+{}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 \cf2 Experience}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 11 years}
+\cell
+
+\row
+\trowd\trql\clvmrg\cellx2495\cellx3629\cellx10490
+
+{}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 \cf2 Previous}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 Manager - Marketing Communications\line }
+}\intbl\itap1
+\ql{\fs18 \f1 Capitol Prosper Sdn Bhd (Palm Mall, Seremban)}
+\cell
+
+\row
+\trowd\trql\clvmrg\cellx2495\cellx3629\cellx10490
+
+{}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 \cf2 Education}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 College Tunku Abdul Rahman\line Diploma, Mass Comm (2003)}
+\cell
+
+\row
+\trowd\trql\clvmrg\cellx2495\cellx3629\cellx10490
+
+{}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 \cf2 Nationality}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 Malaysia}
+\cell
+
+\row
+\trowd\trql\clvmrg\cellx2495\clpadfb3\clpadb113 \cellx3629\cellx10490
+
+{}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 \cf2 PR}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sb30 \sa96 {\fs18 \f1 Malaysia}
+\cell
+
+\row
+\pard\itap0
+\par \pard\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Experience\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Feb 2014 - Present}
+}\intbl\itap1
+\ql{\fs16 \f1 \cf2 \line (6 months )}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Manager - Retail Marketing\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Hatten Brand Management Sdn Bhd}
+\intbl\itap1
+\ql{\fs20 \f1  | Melaka}
+\intbl\itap1
+\ql{\fs20 \f1 , Malaysia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Monthly Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 MYR 5,800}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf5 Brief Introduction\line \line Hatten Brand Management Sdn Bhd (Formerly known as SkyWin Brand Management Sdn Bhd) is the Retail & Brand Management associate to the well-known Developer, Shopping Mall Management and Hotelier - Hatten Group\line \line Alongside with the growth, the group explores and penetrates into the Retail & Franchise sector by owning the franchise license of Pacific Coffee Company for Northern Region (Peninsula Malaysia) and also the retail license of S\uc0{\u235}mk.\line \line Pacific Coffee Company, Melaka\line - Be in-charge of the expansion for the brand \line - Plan and execute the openings / expansions\line - To liaise closely with the principals (Both KL Franchiser and HK Brand Owner) on whatsoever issues related to branding / marketing \line - Working closely with the operations team to provide marketing support and also branding directions.\line - Created the social media platform for the brand and remain pro-active consistently \line - Maintain a fair relationship with respective media\line - Explore and identify the needs from the locals and customize certain promotions / privileges to cater for the patrons. (Localization Marketing)\line - Expanded into a total of TWO (2) outlets /coffeehouses within 6 months and opening another TWO (2) outlets / coffeehouses in 2014.\line - Achieved projected sales @ RM150,000 per month for the coffeehouses.\line \line S\uc0{\u235}mk Flagship Store - Melaka\line - To further market out the brand, S\uc0{\u235}mk & B.Duck to the locals as well as the tourists.\line - Creating content for the brand for its marketing practices ie. Storyboard, Festive Themes etc.\line - Working closely with in-house Graphic Designers and also the team from Hong Kong.\line - Market out the brand to corporate bodies for their marketing campaigns.\line - To ensure the C.I is followed and executed absolutely abiding.\line - Creating fun-filled activities to expose the brand as the tagline is "All About Playful"}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Jul 2013 - Jan 2014}
+}\intbl\itap1
+\ql{\fs16 \f1 \cf2 \line (6 months )}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Manager - Marketing Communications\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Capitol Prosper Sdn Bhd (Palm Mall, Seremban)}
+\intbl\itap1
+\ql{\fs20 \f1  | Kuala Lumpur}
+\intbl\itap1
+\ql{\fs20 \f1 , Malaysia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Monthly Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 MYR 5,600}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf5 Brief Introduction\line \line Capitol Prosper Sdn Bhd is the sole owner, developer and management of the up-coming largest full-fledged shopping mall in Seremban, the Palm Mall. The mall is at its final stage of development and I am joining in as the Pre-opening Marketing Team and will then serving as the Mall Management Team after the official opening.\line \line \line Pre-opening Preparation - Hardware\line - Setting up the department eg. Human Resource, Graphic Studio Equipment\line - Source and purchase the Event's Hardware eg. Portable Stage, Banquet Chairs, Tables, Sound & Lights Equipment which include liaison with Mall's Project Development  Manager on the setting and installation of these hardware. \line - Production of the  Directional Signages, from mapping, design, detailing, fabrication and installation\line - Other Events & Promotions related hardware\line \line A&P Master Plan\line - To develop the master A&P Plan and Guidelines for Palm Mall (Producing the C.I for the company and enforce the developed and approved C.I  into all Marketing related material.\line - Budgeting, Promotional Space Rental Forecast, In-mall Advertising Sales Forecast, Events & Promotion Scheduling\line - Media / Advertising Plan\line - Marketing & Promotions collaborations with tenants \line - In-charge of the whole Website Development and keep updating the contents\line - Further develop the selected social media and keep the communications active at all times\line \line Public & Media Relations\line - Producing PR Materials to update the media on the latest progress of Palm Mall\line - Preparing the full set of PR & Marketing Tools for the team eg. Backgrounder / Corporate Profile / Press Releases etc.\line \line In-house Graphic Studio \line - To provide clear instructions on the direction in producing all necessary artworks \line - Ensuring the preset C.I and Guidelines are perfectly implemented in all marketing-related materials artwork. \line \line Customer Service\line - To lead the department \line - Producing the CS Handbook with Guidelines\line - Hiring and training of CS Officers\line - Ultimately to establish and manage the CS Team which provides shoppers with excellent Conceirge Services.\line \line Customer Relations Management\line - To design the CRM Program and implementation of the plan\line - Liaison with various high-potential partners to provide more privileges to the shoppers eg. International & Local Banks, Non:tenants Commercial Partners and NGOs}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Jul 2007 - May 2013}
+}\intbl\itap1
+\ql{\fs16 \f1 \cf2 \line (5 years 10 months )}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Manager, Marketing - A&P\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Lazo Diamond Jewellery Sdn Bhd}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Monthly Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 MYR 4,800}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf5 Job Experiences & Achievements in Lazo Diamond Jewellery Sdn Bhd\line \line Acheivements:\line Spearheaded the entire Branding Reinforcement campaign, resulting in adding revenue of total RM12M in just twelve months in 2008.\line \line Results was verified and awarded The Golden Bull Awards - 100 Best Entreprenuers in 2008 & 2009\line \line Successfully marketed the brand nationwide and resulted business expansion to over 60outlets in 2011 with a continuous 25% profit growth.\line  \line Following by achieving in Malaysia Book of Records as the "Largest White Gold & Diamond Specialist Retail Chain" in early 2012.\line \line A&P Tasks  \line  To design the yearly A&P plan for the largest jewellery retail chain within the nation\line  To implement the proposed A&P plan into the daily operation of the outlet\line  To create thematic events & promotions for the company in order to achieve the objectives of the marketing plan\line  To conceptualize all the A&P collaterals for maximum exposure of any of the planned programs\line  Overseeing the Graphic department for delivering the best quality of art piece for the outlets\line  Liaise with media in order to garner he best media exposure as possible and also getting the best deal in advertising instead of using any other advertising agency\line  To be fully in-charge of the company's Advertisements including Press, Magazines, TV Commercial / Programs, Radio, Indoor/Oudoor Sinages. (ATL & BTL)\line  Dealing with different business partners in various sectors and industries for promotions tie-up possibility\line  To search for appropriate Shopping Mall for Roadshow/Jewellery Fair purposes. Dealing with these managements for best rental rate and best exposure via activities/events.\line  Dealing with bankers for exclusive promotions\line \line CRM\line  To handle serious customer's complaints and seeking the best solution to resolves the situation.\line  To monitor the traffic flow of the LAZO GIFT CARD.(Lazo Diamond Debit Card cum Loyalty Program)\line  To market this gift card to the public via A&P practices and to the corporate sectors.\line  To handle customer's request or feedback on promotions\line   \line  In conclusion, main objective is to re-build the brand for Lazo Diamond Jewellery, to identify the current market share and working towards further expand. As a pioneer in the industry, to maintain and enhance positive public perception towards the brand is what behind all these efforts.\line \line Campaigns Planned & Executed:\line "The Largest White Gold & Diamond Specialist Retail Chain" Customer Appreciation Sale 2012\line The Golden "8" - 8th Anniversary Celebration (2011)\line The Mega-Raya Sale - MYS + Raya (2011)\line The 7th Phenomena - 7th Anniversary Celebration (2010)\line Raya Trade-in Frenzy - Hari Raya (2009)\line Linked.Valentine - CNY & Valentines (Feb 2008)\line Astro Go-go trendy Lazo Diamond Specials (Feb 2008)\line Snow in Cairo - Xmas (Dec 2007)\line Glamourous Four - 4th Anniversary (Oct 2007)\line Carnival of Soul - Merdeka (Aug 2007)}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Jul 2006 - Jun 2007}
+}\intbl\itap1
+\ql{\fs16 \f1 \cf2 \line (11 months )}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Executive, Events & Marketing\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Trend Matrix Enterprises S/B(Qbar & Mezquite52)}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Monthly Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 MYR 3,000}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf5 Job Experiences & Responsibilities in Trend Matrix Enterprises Sdn Bhd\line \line Mezquite52\line  To design the mareketing plan for the newly opened F&B cum Entertainment outlet, Mezquite52 at Jln. Doraisamy (Asian Heritage Row)\line  To implement the proposed marketing plan into the daily operation of the outlet\line  To create thematic events & promotions for the outlet in order to achieve the objectives of the marketing plan\line  To conceptualize all the A&P collaterals for maximum exposure of any of the planned programs\line  Overseeing the Graphic & Visual Merchandising department for delivering the best quality of art piece for the outlets\line  Liaise with media in order to garner he best media exposure as possible and also getting the best deal in advertising instead of using any other advertising agency\line  Dealing with all sort of suppliers (Mainly Alcoholic Drinks Dealers) for tie-in promotions/sponsorships to achieve the projected sales of the quarter\line  Achieving Private Function / Events sales at RM100,000 per month for the outlet \line  In conclusion, main objective is to increase patronage within the outlet via media exposure, events & promotions, enhancing quality of service and of course by providing cost-worthy spending environment for the public\line \line \line Qbar\line  To design a reinforcement marketing & operation plan for the well-known entertainment outlet, Qbar at Sunway Pyramid\line  To ensure the reinforcement plan has been executed accurately by the operation staff in the outlet to achieve the main objective of the proposal\line  As the outlet is facing major image drops since the renovation made in year 2004, image building is the main task force for this job\line  Responsible for all A&P program of the outlet  Events, Promotions, A&P collaterals, Media Exposure in PR aspects\line  Dealing with all sort of suppliers / dealers / retailers for holding events / functions at the outlet to achieve sales target and media exposure\line  In conclusion, the main objective is making a massive change on the crowd received by enhancing the image of the outlet}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Jun 2005 - Apr 2006}
+}\intbl\itap1
+\ql{\fs16 \f1 \cf2 \line (10 months )}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Executive, Mktg. - Events,Advertising&Promtions\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Qatar Central Marketers WLL (Hyatt Plaza, Doha)}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Monthly Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 USD 2,000}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf5 Job Responsibilities / Experiences in Qatar Central Marketers W.L.L (Hyatt Plaza, Doha-Qatar)\line \line \uc0{\u8226} To reinforce the marketing plan by previous marketing team\line \uc0{\u8226} Study of the local purchaser\uc0{\u8217}s attitude for developing further marketing plan\line \uc0{\u8226} Dealing with the local FMCG\uc0{\u8217}s company for exciting events\line \uc0{\u8226} To hype-up the ambience of the shopping mall by having kinds of activities and promotions\line \uc0{\u8226} Planning, conceptualize, activate and execute campaigns to increase patronage, garner incremental sales for tenant and creating word-of-mouth scenery among targeted market.\line \uc0{\u8226} Responsible on planning and creating advertising for each and every campaign\line \uc0{\u8226} To establish good rapport with the media to have better mileage of exposure for each campaign\line \uc0{\u8226} Supervising the VM department for mall decorations during festive season and special occasion\line \uc0{\u8226} Supervising the process of every setup of events or promotions in order to meet the requirements of the shopping mall\line \uc0{\u8226} Leading the event crew on conducting their tasks\line \uc0{\u8226} Ensuring the flow of each events / promotions is in proper order as failure / accident is extremely undesired\line \uc0{\u8226} To develop the mall\uc0{\u8217}s website and oversee the updates of information as it is one of useful marketing tools for the shopping mall\line \uc0{\u8226} To prepare monthly marketing analysis for reference and review purposes\line \line Events / Promotions Executed @ Hyatt Plaza\line \line Eid Al-Adha Celebration 2006 \uc0{\u8211} Stage Performances by Russian Circus Troupe\line Christmas Celebration 2005 \uc0{\u8211} Christmas Bazaar \line Back to School with Tom & Jerry by Hyatt Plaza\line Treasures of Arabia \uc0{\u8211} Ramadan Celebration @ Hyatt Plaza\line Eid Al \uc0{\u8211}Ftr  Festival 2005 \uc0{\u8211} Stage Performances by Russian Circus Troupe \line Official Launching of PROTON GEN2 in Doha \uc0{\u8211} Qatar @ Hyatt Plaza (Fully planned and organized by HP team)\line Official Unveiling of Volkswagen PASSAT in Doha-Qatar @ Hyatt Plaza (Fully planned and organized by HP team) \line Season\uc0{\u8217}s Greetings Promotion 2005 @ Hyatt Plaza}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Feb 2005 - May 2005}
+}\intbl\itap1
+\ql{\fs16 \f1 \cf2 \line (2 months )}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Executive, Advertsiing & Promotions\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line MEDA Complex Management S/B (The Summit USJ)}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Monthly Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 MYR 1,800}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf5 ob Responsibilities / Experiences in MEDA Complex Management Sdn Bhd\line \line \uc0{\u8226} To assist all tenants to generate and increase sales through tie-in promotions\line \uc0{\u8226} Planning for in-house thematic fair to increase crowd and build-up customer shopping habits in the complex\line \uc0{\u8226} To increase constant publicity and crowd attraction exercise for the complex\line \uc0{\u8226} To constant market promotions space within the complex \line \uc0{\u8226} To monitor stage decorations set-up\line \uc0{\u8226} To prepare contract and offer letter for exhibitor or organizer\line \uc0{\u8226} To prepare proposal to look for potential sponsors and advertisers\line \uc0{\u8226} Meeting with organizer for interesting and benefiting events\line \uc0{\u8226} Negotiation with supplier in order to get the best rate or event set-up and operations\line \line Events Handled @ The Summit USJ\line \line Citra Rasa 2005 (Tourism Selangor)\line 3x3 Summit USJ Streetball Challenge 2005}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Dec 2003 - Jan 2005}
+}\intbl\itap1
+\ql{\fs16 \f1 \cf2 \line (1 year 1 month )}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Coordinator, Marketing,Advertising & Promotions\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Berjaya TS Management Sdn Bhd (Times Square KL)}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf5 Job Responsibilities / Experiences in Berjaya TS Management Sdn Bhd\line \line i) Coordination for clients\uc0{\u8217} events\line \uc0{\u8226} To coordinate in every promotions and events held in Berjaya Times Square Kuala Lumpur.\line \uc0{\u8226} To negotiate the terms and conditions with clients on holding promotions / events at Berjaya Times Square Kuala Lumpur.\line \uc0{\u8226} To prepare documents for administration purpose on promotions and events.\line \uc0{\u8226} To give support to each client on logistics part.\line \uc0{\u8226} Ensure the promotions / events\uc0{\u8217} set-up done nicely.\line \uc0{\u8226} Ensure the programs of every promotions / events run smoothly. E.g : S.H.E Meet The Fans 2004 at Berjaya Times Square Kuala Lumpur.\line \uc0{\u8226} Ensure every venue is in good conditions after promotions / events.\line \line ii) Coordination for in-house thematic promotions / events\line \uc0{\u8226} To help in planning in-house thematic promotions / events for Berjaya Times Square Kuala Lumpur. E.g: Berjaya Times Square\uc0{\u8217}s 2004 New Year Eve Countdown, Berjaya Times Square\uc0{\u8217}s 2004 Merdeka Countdown Party.\line \uc0{\u8226} To monitor the set-up and tear-down process for every promotions / events.\line \uc0{\u8226} To execute projects planned by superior.\line \uc0{\u8226} To maintain good relationships with all supplier and media.\line \uc0{\u8226} To monitor the program run-down of every events. \line \uc0{\u8226} To give support on PR angle whereby to ensure good media turn-up for every events.\line \uc0{\u8226} Preparing post-event report for higher management\uc0{\u8217}s perusal and filing purpose.\line \line Events Handled @ BTS\line \line 2004 New Year Eve Countdown @ Berjaya Time Square Kuala Lumpur 	\line 2004 Merdeka Eve Countdown @ Berjaya Times Square Kuala Lumpur\line Fashion Vogue 2004 @ Berjaya Times Square Kuala Lumpur\line KL Fashion Week 2004 (Utusan Melayu)\line Mega Sale Launching 2004 @ Berjaya Times Square Kuala Lumpur\line And 1 Streetball Challenge 2004 @ Berjaya Times Square Kuala Lumpur\line Street Roar 2004 @ Berjaya Times Square Kuala Lumpur\line French Music Festival 2004	\line Battle of the Band 2004 \uc0{\u8211} Hoobastank Promo (Universal Music)	\line Undiscovered Territory Exhibition \line Journey to the West Photography Exhibition\line Women to Women Blood Donation Drive\line ERA Blood Donation Drive (Radio ERA)\line Anugerah ERA Showcase 2004 (Radio ERA)\line Puteri ERA Beauty Pageant 2004 (Radio ERA)\line Miss Malaysian Indian 2004 \uc0{\u8211} Semi Finale \line V-Mag Very Valentine\line Miriam Yeong Meet The Fans \line Cyndi Wang Meet The Fans\line Twins Effect II Meet The Fans \line Bumper Roadshow 2004 (Blu Inc Media)\line Cabaran Memasak Dan Dan Tu! (Nestle & Utusan Melayu)\line Celebrity Race 2004 (Kumpulan Karangkraft)\line Launching of Umph! & Harmoni Magazine (Utusan Melayu)}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Education\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 2003}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b College Tunku Abdul Rahman\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Diploma}
+\intbl\itap1
+\ql{\fs20 \f1  in Mass Communications}
+\intbl\itap1
+\ql{\fs20 \f1  | Malaysia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Major}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 Public Relations}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Grade}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 Pass/Non-gradable}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Skills\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Advanced}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 Event Management}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Intermediate}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 Campaign Planning}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Languages\b0 }
+\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl113 \clpadfb3\clpadb113 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 \i Proficiency level: 0 - Poor, 10 - Excellent\i0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Language}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Spoken 	Written 	Relevant Certificates}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 Chinese}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1    8 	   8 	-}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 English}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1    7 	   7 	-}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 Bahasa Malaysia}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1    7 	   7 	-}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Jobstreet English Language Assessment (JELA)}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Date Taken}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 26 Jan 2010}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Score}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 33/40}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Additional Info\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Expected Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 MYR 6,000}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Preferred Work Location}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 Selangor, Kuala Lumpur, Penang}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\cellx4196\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Other Information}
+\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf5 Acheivements @ Lazo Diamond Jewellery\line - Successfully created the title of "The Largest White Gold & Diamonds Specialty Retail Chain" in The Malaysia Book of Records in 2012\line - Increased 80% Total Credit Card Sales via various aggressive tie-ups with Maybank & Citibank in 2011\line - Successfully assisting company to retain the Golden Bull Awards - Best Entrepreneur for year 2008 & 2009\line - Created mass awareness on branding prospect and playing an important role in continuous effort of cultivation to public in widely accepting White Gold & Diamonds jewellery \line \line Abilities\line \line  Events Managements Skills\line  Negotiation Skills\line  Telephone Skills\line  Customer Service Skills\line  Public Speaking and Persuasion.\line  Computer Literate  Microsoft Office (Word, Excel, Outlook Express)\line \line Personal Strength\line \line  Always willing to broaden knowledge through learning experience and guidance from everyone.\line  Hardworking.\line  Always ready to help.}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b About Me\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Gender}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 Male}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 \cf2 Address}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs16 \f1 No. 5, Jalan 3/6 Ampang Indah, Taman Ampang Indah, 68000, Ampang, Selangor, Malaysia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\pard\itap0
+
+}

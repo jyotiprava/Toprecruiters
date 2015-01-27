@@ -1,0 +1,57 @@
+
+h1, h2, h3
+{
+	font-size: 18px;
+}
+h4, h5, h6
+{
+	font-size: 16px;
+}
+p
+{
+	margin: 0 0 10px 0;
+}
+a, a:link, a:active, a:visited, a:hover
+{
+	color: #333;
+	text-decoration: underline;
+}
+pre
+{
+	font-size: 12px;
+	width: 100%;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+}
+#page nav
+{
+	display: none;
+}
+
+
+#header a,
+.header a
+{
+	background: center center no-repeat transparent;
+	
+
+	display: block;
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 0;
+	left: 10px;
+}
+#header a.friends,
+.header a.friends
+{
+	
+
+}
+#header a.right,
+.header a.right
+{
+	left: auto;
+	right: 10px;
+}
+#content,

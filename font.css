@@ -1,0 +1,142 @@
+@font-face {
+    font-family: 'alex_brushregular';
+    src: url('font/alexbrush-regular-webfont.eot');
+    src: url('font/alexbrush-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/alexbrush-regular-webfont.woff2') format('woff2'),
+         url('font/alexbrush-regular-webfont.woff') format('woff'),
+         url('font/alexbrush-regular-webfont.ttf') format('truetype'),
+         url('font/alexbrush-regular-webfont.svg#alex_brushregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'SourceSansPro-Regular';
+    src: url('font/SourceSansPro-Regular.eot');
+    src: url('font/SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+         url('font/SourceSansPro-Regular.woff') format('woff'),
+         url('font/SourceSansPro-Regular.ttf') format('truetype'),
+         url('font/SourceSansPro-Regular.svg#open_sanscondensed_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'SourceSansPro-Regular';
+    src: url('font/PTN57F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/PTN57F-webfont.woff') format('woff'),
+         url('font/PTN57F-webfont.ttf') format('truetype'),
+         url('font/PTN57F-webfont.svg#open_sanscondensed_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'pt_sans_narrowregular';
+    src: url('font/PTN57F-webfont.eot');
+    src: url('font/PTN57F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/PTN57F-webfont.woff') format('woff'),
+         url('font/PTN57F-webfont.ttf') format('truetype'),
+         url('font/PTN57F-webfont.svg#pt_sans_narrowregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Estrangelo Edessa';
+    src: url('font/Estrangelo Edessa.eot');
+    src: url('font/Estrangelo Edessa.eot') format('embedded-opentype'),
+         url('font/Estrangelo Edessa.woff2') format('woff2'),
+         url('font/Estrangelo Edessa.woff') format('woff'),
+         url('font/Estrangelo Edessa.ttf') format('truetype'),
+         url('font/Estrangelo Edessa.svg#EstrangeloEdessaRegular') format('svg');
+}
+
+@font-face {
+	font-family: 'Conv_estre';
+	src: url('font/estre.eot');
+	src: local('☺'), url('font/estre.woff') format('woff'), url('font/estre.ttf') format('truetype'), url('font/estre.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'DaunPenhRegular';
+    src: url('font/daunpenh.eot');
+    src: url('font/daunpenh.eot') format('embedded-opentype'),
+         url('font/daunpenh.woff2') format('woff2'),
+         url('font/daunpenh.woff') format('woff'),
+         url('font/daunpenh.ttf') format('truetype'),
+         url('font/daunpenh.svg#DaunPenhRegular') format('svg');
+}
+
+
+.head3{
+    font-family: 'Conv_estre';
+    font-size:25px;
+    font-weight: normal;
+    color: #0a0d18;
+    margin-top:0px;
+    margin-bottom:5px;
+}
+
+.head6{
+    font-family: 'Conv_estre';
+    font-size:25px;
+    font-weight: normal;
+    color: #0a0d18;
+    margin-top:10px;
+    margin-bottom:5px;
+	text-align:left;
+}
+
+.head4{
+   font-family: 'Conv_estre';
+    font-size:18px;
+    font-weight: normal;
+    color: #0a0d18;
+	margin-bottom:5px;
+	margin-top:0px;
+}
+
+.head5{
+    font-family: 'Conv_estre';
+    font-size:25px;
+    font-weight: normal;
+    color: #305eba;
+	margin-bottom:5px;
+}
+
+.text4{ 
+	font-family: 'Conv_estre';
+	font-size:15px; 
+	color:#3a52a0;
+	line-height:1.2;
+}
+
+.text{ 
+	font-family: 'DaunPenhRegular';
+	font-size:30px; 
+	color:#333;
+	line-height:0.9;
+}
+
+@font-face {
+    font-family: 'estrangelo_edessaregular';
+    src: url('font/3730-webfont.eot');
+    src: url('font/3730-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/3730-webfont.woff2') format('woff2'),
+         url('font/3730-webfont.woff') format('woff'),
+         url('font/3730-webfont.ttf') format('truetype'),
+         url('font/3730-webfont.svg#estrangelo_edessaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
