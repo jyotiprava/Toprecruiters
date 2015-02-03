@@ -63,6 +63,12 @@ if(isset($_POST['Submit']))
          url('font/estrangeloedessa.svg#EstrangeloEdessaRegular') format('svg');
 }
 </style>
+
+<style>
+	    .changepwd{
+		color:#797878 !important;
+	    }
+</style>
 </head>
 <body>
 <!--------------------------header----------------------->

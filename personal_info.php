@@ -242,7 +242,7 @@ $dayval=$resuser['dob'];
 ?>
 	<h2><span style="color: #900;">Your personal details & settings</span></h2> 
 					<form  name="f" id="personal_box" action="personal_insert.php" method="post">	
-							<table class="tbl" style="width:650px;">
+							<table class="tbl" style="width:780px;">
 									<tr>
 														<td colspan="3">Personal Detail>></td>
 														
@@ -433,7 +433,7 @@ $dayval=$resuser['dob'];
                                                      </td>
 												</tr>
 												<tr>
-														<td style="width:150px;">
+														<td>
                                                         Experience:
                                                         </td>
 														<td colspan="2">
@@ -532,7 +532,7 @@ $dayval=$resuser['dob'];
 												</tr>
 												<tr>
 												<td>
-												<div style="width:400px; height:300px; float:left; border:1px solid #dedede; overflow:auto;">
+												<div style="width:250px; height:300px; float:left; border:1px solid #dedede; overflow:auto;">
 													<table style="width:100%;">
 													<?php
 														/*$sqllocat=mysql_query("select * from `location`");
@@ -555,8 +555,8 @@ $dayval=$resuser['dob'];
 		$loct=$reslocat['slno'];	
 		?>
 		<tr>
-		<td width="150"><input type="checkbox" name="chk[]" value="<?php echo $reslocat['slno'];?>" <?php if(in_array($loct,$expl)){echo "checked=checked";}?> class="chkcls"/></td>
-		<td colspan="4"><?php echo $reslocat['location'];?></td>
+		<td ><input type="checkbox" name="chk[]" value="<?php echo $reslocat['slno'];?>" <?php if(in_array($loct,$expl)){echo "checked=checked";}?> class="chkcls"/></td>
+		<td colspan="2"><?php echo $reslocat['location'];?></td>
 		</tr>
 		<?php
 		}
@@ -647,7 +647,11 @@ $dayval=$resuser['dob'];
 														</div>
 														<input type="hidden" name="advance" id="advance_add" class="txtarea" value="<?=$resuser['advanced']?>"/>
 													</td>
-			<td><div style="float:left;">Intermediate:</div>
+			<td colspan="2">
+					<div style="width:260px;float: left;">
+					<div style="width:100%;	">	    
+					<div style="float:left;">Intermediate:</div>
+					
 			<select class="textbox2" onchange="return myfunction1(this.value)" style=" float:left; margin-top:10px; margin-left:6px;" id="intermediatee">
 					<option value="0">--Choose Skill--</option>
 					<?php
@@ -660,6 +664,8 @@ $dayval=$resuser['dob'];
 					}
 					?>
 				</select>
+					</div>
+					
 			<div style="width: 250px;height:200px;float: left;margin-top: 10px;border: 1px solid #ccc;overflow: auto;" id="advance_skill_inter">
 				<?php $intermediate=explode(",",$resuser['intermediate']);
 			foreach($intermediate as $key=>$value1)
@@ -679,9 +685,12 @@ $dayval=$resuser['dob'];
 			
 					
 				</div>
+					</div>
 			<input type="hidden" name="intermediate" id="intermediate_add" class="txtarea" value="<?=$resuser['intermediate']?>"/>
-			</td>
-			<td><div style="float:left;">Basic:</div>
+					</div>
+					<div style="width:250px;float: left;">
+							    <div style="width:100%;	">	
+			<div style="float:left;">Basic:</div>
 			<select class="textbox2" onchange="return myfunction2(this.value)" style=" float:left; margin-top:10px; margin-left:6px;" id="basicc">
 					<option value="0">--Choose Skill--</option>
 					<?php
@@ -713,6 +722,8 @@ $dayval=$resuser['dob'];
 					
 				</div>
 			<input type="hidden" name="basic" id="basic_add" class="txtarea" value="<?=$resuser['basic'];?>"/>
+					</div>
+					</div>
 			</td>
 		</tr>
 												

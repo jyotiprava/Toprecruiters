@@ -60,6 +60,11 @@ $count=mysql_num_rows($qjobmatchprofile);
 	   });
     });
 </script>-->
+<style>
+	    .matching{
+		color:#797878 !important;
+	    }
+</style>
 </head>
 <body>
 <!--------------------------header----------------------->
@@ -158,7 +163,7 @@ echo "<script>alert('".$mess."')</script>";
 
 <!--------------------------footer bar----------------------->
 <?php
-include_once("footer.php");
+include_once("footer1.php");
 ?>
 <!--------------------------footer bar end----------------------->
 </body>

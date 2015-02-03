@@ -154,7 +154,7 @@ $qwe=mysql_query("SELECT a.* from `alljob` a,`admin_suggest` ad where ad.`userid
 
 <!--------------------------footer bar----------------------->
 <?php
-include_once("footer.php");
+include_once("footer1.php");
 ?>
 <!--------------------------footer bar end----------------------->
 </body>

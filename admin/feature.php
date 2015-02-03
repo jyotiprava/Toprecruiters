@@ -366,7 +366,13 @@ div.pagination span.current {
                         </div>	
                 </div>
                 <div id="content2_right">
-                		<h2 class="head3" style="font-weight:normal;color: #333;  text-decoration: underline; margin-bottom: 7px;">Job Description</h2>
+                		<h2 class="head3" style="font-weight:normal;color: #333;  text-decoration: underline; margin-bottom: 7px;">
+					<span style="width: 200px;float: left;">Job Description</span>
+				<span style="width: auto;float: left;color: #06C;font-size: 18px;margin-left: 120px;">
+					Create New Job Ad <br/>
+					Save & Preview Ad
+				</span>
+				</h2>
                         <div id="content2_rightbox" style="margin-top: 0px;">
                         	<h2 style="background:#06C; height: 40px; margin:0px; padding:0px; color: #fff; font-weight: normal;" ></h2>
 				<div class="rightbox" style="float: left;">
@@ -388,15 +394,48 @@ div.pagination span.current {
                                   
                                   <tr>
                                     <td style="text-align:right">Job Specialisation:</td>
-                                    <td><select class="input3select" ><option>--SELECT--</option></select></td>
+                                    <td>
+					<select class="input3select" style="width: 300px;">
+						<?php
+                                                        $qind=mysql_query("select * from `industry`")or die(mysql_error());
+                                                        while($rind=mysql_fetch_array($qind))
+                                                        {
+                                                        ?>
+                                                        <option value="<?=$rind['slno'];?>"><?=$rind['industry'];?></option>
+                                                        <?php
+                                                        }
+                                                        ?>
+					</select>
+				    </td>
                                   </tr>
                                   <tr>
                                     <td style="text-align:right">Sub Specialisation:</td>
-                                    <td><select class="input3select" ><option>--SELECT--</option></select></td>
+                                    <td>
+					<select class="input3select" style="width: 300px;">
+						<option>--SELECT--</option>
+						 <?php
+                                                        $qjob=mysql_query("select * from `job_function`")or die(mysql_error());
+                                                        while($rjob=mysql_fetch_array($qjob))
+                                                        {
+                                                        ?>
+                                                        <option value="<?=$rjob['slno'];?>"><?=$rjob['jobfunction'];?></option>
+                                                        <?php
+                                                        }
+                                                        ?>
+					</select>
+				    </td>
                                   </tr>
                                   <tr>
                                     <td style="text-align:right">Work Type:</td>
-                                    <td><select class="input3select"><option>--SELECT--</option></select></td>
+                                    <td>
+					<select class="input3select">
+						<option>--SELECT--</option>
+						<option value="Permanent">Permanent</option>
+							<option value="Temporary">Temporary</option>
+							<option value="Contract">Contract</option>
+							<option value="All">All</option>
+					</select>
+				    </td>
                                   </tr>
                                   <tr>
                                     <td style="text-align:right">Minimum Experience:</td>

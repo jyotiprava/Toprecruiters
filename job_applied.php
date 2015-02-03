@@ -43,6 +43,11 @@ $qjobmatchprofile=mysql_query("SELECT j.`postid`,a.`postname`,a.`status`,j.`date
 	   });
     });
 </script>-->
+<style>
+	    .applied{
+		color:#797878 !important;
+	    }
+</style>
 </head>
 <body>
 <!--------------------------header----------------------->
@@ -125,7 +130,7 @@ $qjobmatchprofile=mysql_query("SELECT j.`postid`,a.`postname`,a.`status`,j.`date
 
 <!--------------------------footer bar----------------------->
 <?php
-include_once("footer.php");
+include_once("footer1.php");
 ?>
 <!--------------------------footer bar end----------------------->
 </body>

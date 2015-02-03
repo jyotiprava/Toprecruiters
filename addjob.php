@@ -83,6 +83,11 @@ oldval=oldval.replace(sid, "");
 $('#advance_add').val(oldval);
 }
 </script>
+<style>
+	    .post{
+		color:#797878 !important;
+	    }
+</style>
 </head>
 <body>
 <!--------------------------header----------------------->

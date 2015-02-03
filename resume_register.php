@@ -3,7 +3,7 @@ include_once("function.php");
 
 $fname=htmlentities($_POST['fname'],ENT_QUOTES);
 $lname=htmlentities($_POST['lname'],ENT_QUOTES);
-$dob=htmlentities($_POST['day'],ENT_QUOTES).'-'.htmlentities($_POST['mon'],ENT_QUOTES).'-'.htmlentities($_POST['year'],ENT_QUOTES);
+$dob=htmlentities($_POST['year'],ENT_QUOTES).'-'.htmlentities($_POST['mon'],ENT_QUOTES).'-'.htmlentities($_POST['day'],ENT_QUOTES);
 $country=htmlentities($_POST['country'],ENT_QUOTES);
 $state=htmlentities($_POST['state'],ENT_QUOTES);
 $nationality=htmlentities($_POST['nationality'],ENT_QUOTES);
@@ -11,7 +11,10 @@ $contact=htmlentities($_POST['code'],ENT_QUOTES).htmlentities($_POST['contact'],
 $telephone=htmlentities($_POST['areacode'],ENT_QUOTES).htmlentities($_POST['tel'],ENT_QUOTES);
 $email=htmlentities($_POST['email'],ENT_QUOTES);
 $password=md5(htmlentities($_POST['password'],ENT_QUOTES));
-$address=$state.','.$country;
+
+$gender=$_POST['gender'];
+$city=htmlentities($_POST['city'],ENT_QUOTES);
+$address=htmlentities($_POST['address'],ENT_QUOTES);
 
 $expcurency=htmlentities($_POST['expcurency'],ENT_QUOTES);
 $expsalary=htmlentities($_POST['expsalary'],ENT_QUOTES);
@@ -102,21 +105,33 @@ $ext1=end(explode(".", $_FILES["upload"]["name"]));
                                                 $copied = copy($_FILES['upload']['tmp_name'], $filename);
 						}
 
+$image=$_FILES['image']['name'];
+
+$ext1=strtolower(end(explode(".", $_FILES["image"]["name"])));
+	if($ext1=="jpg" || $ext1=="jpeg" || $ext1=="png" || $ext1=="gif")
+                                               {
+                                                $folder="admin/upload/";
+                                                $filename2 = $folder .time(). $image ;
+                                                $copied = copy($_FILES['image']['tmp_name'], $filename2);
+						}
+						
+						
 $explevel=htmlentities($_POST['explevel'],ENT_QUOTES);
 $exp=htmlentities($_POST['exp'],ENT_QUOTES);
 
-mysql_query("insert into `cv_detail` set `user_id`='$idval',`first_name`='$fname',`last_name`='$lname',`dob`='$dob',`email`='$email',`nationality`='$nationality',`home_contact`='$telephone',`mobile_contact`='$contact',`country`='$country',`current_address`='$address',`expected_salary`='$expsalary',`expected_currency`='$expcurency',`experience_type`='$explevel',`experience_date`='$exp',`preferd_location`='$val',`advanced`='$advance',`intermediate`='$intermediate',`basic`='$basic',`other_info`='$otherinfo',`workin_oversea`='$workinoversea',`nfbyemail`='$emailnf',`nfbysms`='$textmsgnf',`cv`='$filename',`join_date`='$join_date',`updated_date`='$date1'")or die(mysql_error());
+mysql_query("insert into `cv_detail` set `user_id`='$idval',`first_name`='$fname',`last_name`='$lname',`gender`='$gender',`citizen`='$city',`dob`='$dob',`email`='$email',`nationality`='$nationality',`home_contact`='$telephone',`mobile_contact`='$contact',`country`='$country',`current_address`='$address',`expected_salary`='$expsalary',`expected_currency`='$expcurency',`experience_type`='$explevel',`experience_date`='$exp',`preferd_location`='$val',`advanced`='$advance',`intermediate`='$intermediate',`basic`='$basic',`other_info`='$otherinfo',`workin_oversea`='$workinoversea',`nfbyemail`='$emailnf',`nfbysms`='$textmsgnf',`cv`='$filename',`picture`='$filename2',`join_date`='$join_date',`updated_date`='$date1'")or die(mysql_error());
 
 foreach($_POST['highqualification'] as $key=>$value)
 {  
 $highqualification=htmlentities($_POST['highqualification'][$key],ENT_QUOTES);
 $fstudy=htmlentities($_POST['fstudy'][$key],ENT_QUOTES);
+$major=htmlentities($_POST['major'][$key],ENT_QUOTES);
 $institute=htmlentities($_POST['institute'][$key],ENT_QUOTES);
 $located=htmlentities($_POST['located'][$key],ENT_QUOTES);
 $graduation_date=htmlentities($_POST['graduation_date'][$key],ENT_QUOTES);
 $hd_high=$_POST['hd_high'];
 
-mysql_query("insert into `education` set `degree`='$highqualification',`field`='$fstudy',`institute`='$institute',`country`='$located',`year`='$graduation_date',`user_id`='$idval',`education_type`='$hd_high'");
+mysql_query("insert into `education` set `degree`='$highqualification',`field`='$fstudy',`major`='$major',`institute`='$institute',`country`='$located',`year`='$graduation_date',`user_id`='$idval',`education_type`='$hd_high'");
 }
 
 
@@ -143,12 +158,18 @@ $crntval=$_POST['recent'][$key];
 $title=htmlentities($_POST['title'][$key],ENT_QUOTES);
 $position=htmlentities($_POST['position'][$key],ENT_QUOTES);
 $specialization=htmlentities($_POST['specialization'][$key],ENT_QUOTES);
+
+$workcurency=htmlentities($_POST['workcurency'][$key],ENT_QUOTES);
+$worksalary=htmlentities($_POST['worksalary'][$key],ENT_QUOTES);
+
 $role=htmlentities($_POST['role'][$key],ENT_QUOTES);
+$location=htmlentities($_POST['location'][$key],ENT_QUOTES);
+$statew=htmlentities($_POST['statew'][$key],ENT_QUOTES);
 $workexpdesc=htmlentities($_POST['workexpdesc'][$key],ENT_QUOTES);
 
 if($company!='')
 {
-mysql_query("insert into `experience` set `company`='$company',`industry`='$industry',`from`='$from',`to`='$to',`total_experience`='$intervall',`type`='$crntval',`title`='$title',`position`='$position',`jobcategory`='$specialization',`description`='$workexpdesc',`role`='$role',`user_id`='$idval'");
+mysql_query("insert into `experience` set `company`='$company',`industry`='$industry',`from`='$from',`to`='$to',`total_experience`='$intervall',`type`='$crntval',`title`='$title',`position`='$position',`jobcategory`='$specialization',`description`='$workexpdesc',`curency`='$workcurency',`salary`='$worksalary',`role`='$role',`location`='$location',`state`='$statew',`user_id`='$idval'");
 }
 }
 

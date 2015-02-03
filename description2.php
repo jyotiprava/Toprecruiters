@@ -134,6 +134,24 @@ h3{ margin-bottom:0px; margin-top:0px;}
 	</script>
 </head>
 <body>
+	<!----------facebook share button-------->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+ <!----------facebook share button--------> 
+ 
+ <!----------google plus share button-------->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<!----------google plus  share button-------->
+
+
 <!--------------------------header----------------------->
 <?php include_once("topbar.php");?>
 <!--------------------------header end----------------------->
@@ -182,10 +200,14 @@ h3{ margin-bottom:0px; margin-top:0px;}
         		
                 <div id="content2_right" style="width:600px;margin-left: 0px;">
                     <h3 class="head3" style="margin-top:20px;">
-                 Job Description
+                 <span style="float:left;">Job Description</span>
                 		<span style="float:right;">
-                                     <img src="images/sh2.jpg" style="float:right;"   /><img src="images/sh.jpg" style="float:right;"   /><img src="images/s.jpg" style="float:right;"  />
-                                     </span>
+                                     <div class="fb-share-button" data-href="https://www.facebook.com/lovetoprecruiters" data-layout="button_count"></div>
+					<div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://plus.google.com/u/0/b/104644828667335538524/104644828667335538524/about/p/pub"></div>
+					 <img src="images/sh.jpg" />
+				    <img src="images/sh2.jpg" />
+    
+                                </span>
                 </h3>
                        <div id="content2_rightbox">
                         	<h2 style="background:#06C; margin:0px; padding:0px; color: #fff; font-weight:normal; text-align: right; text-decoration: underline; padding-right: 10px;height:25px;font-size:16px;padding-top:10px;cursor: pointer;">

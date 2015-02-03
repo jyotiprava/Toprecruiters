@@ -34,7 +34,7 @@ if(isset($_SESSION['user']))
 						<li><a href="add_currency.php">Add Currency</a></li>
                                                 <li><a href="positionlevel.php">Add Position Level</a></li>
                                                 <li><a href="addspecialization.php">Create Specialization</a></li>
-                                                 <li><a href="add_subspecialization.php">Add Subspecialization</a></li>
+                                                 <li><a href="add_subspecialization.php">Add Subspecialization (Industry)</a></li>
 						<li><a href="addlocation.php">Add Location</a></li>
 						<li><a href="addjob.php">Add Job</a></li>
 						<li><a href="addprefix.php">Add Prefix</a></li>

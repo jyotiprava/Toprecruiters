@@ -88,6 +88,9 @@ $(document).ready(function($){
                                                 <th>Name</th>
 												<th colspan="2">Action</th>
                                                 </tr>
+					     </table>
+					     <div style="width:97%;height: 400px;float: left;overflow: auto;">
+										<table class="table1" cellpadding="5">
                                                 <?php 
 											$sqlloc=mysql_query("select * from `location`");
 											while($resloc=mysql_fetch_array($sqlloc)){
@@ -101,6 +104,7 @@ $(document).ready(function($){
 											} 
 											?>
                                                 </table>
+					     </div>
 								</div>
 						</div>
 				</div>

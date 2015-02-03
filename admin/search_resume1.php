@@ -704,8 +704,8 @@ else{}
 				    </tr>
 				    <tr >
 					<td>Years of Experience</td>
-					<td><span style="float: left; color: #333;">Min</span><input type="text" class="input3"  style="width:40px;float: left;" name="minexp"/></td>
-					<td colspan="2"><span style="float: left;  color: #333;">Max</span><input type="text" class="input3"  style="width:40px;float: left;" name="maxexp"/></td>
+					<td><span style="float: left; color: #333;">Min</span><input type="text" class="input3"  style="width:40px;float: left;margin-left: 5px;" name="minexp"/></td>
+					<td colspan="2"><span style="float: left;  color: #333;">Max</span><input type="text" class="input3"  style="width:40px;float: left;margin-left: 5px;" name="maxexp"/></td>
 					
 				    </tr>
 				    <tr>
@@ -715,9 +715,9 @@ else{}
 				    </tr>
 				    <tr >
 					<td>Expected Month Salary</td>
-					<td><span style="float: left; color: #333;">Min</span><input type="text" class="input3"  style="width:40px;float: left;" name="min_expsalry"/></td>
-					<td><span style="float: left;  color: #333;">Max</span><input type="text" class="input3"  style="width:40px;float: left;" name="max_expsalry"/></td>
-					<td>Currency
+					<td width="100"><span style="float: left; color: #333;">Min</span><input type="text" class="input3"  style="width:40px;float: left; margin-left: 5px;" name="min_expsalry"/></td>
+					<td><span style="float: left;  color: #333;">Max</span><input type="text" class="input3"  style="width:40px;float: left;margin-left: 5px;" name="max_expsalry"/></td>
+					<td width="120">Currency
 					    <select class="input3select" name="expect_currency1">
 						<option value="">select</option>
 					    <?php
@@ -731,8 +731,8 @@ else{}
 				    </tr>
 				    <tr >
 					<td>Current Month Salary</td>
-					<td><span style="float: left; color: #333;">Min</span><input type="text" class="input3"  style="width:40px;float: left;" name="min_crntsalry"/></td>
-					<td><span style="float: left;  color: #333;">Max</span><input type="text" class="input3" style="width:40px;float: left;" name="max_crntsalry"/></td>
+					<td><span style="float: left; color: #333;">Min</span><input type="text" class="input3"  style="width:40px;float: left;margin-left: 5px;" name="min_crntsalry"/></td>
+					<td><span style="float: left;  color: #333;">Max</span><input type="text" class="input3" style="width:40px;float: left;margin-left: 5px;" name="max_crntsalry"/></td>
 					<td>Currency
 					    <select class="input3select" name="current_currency1">
 						<option value="">select</option>
@@ -778,7 +778,7 @@ else{}
 					</td>
 				    </tr>
 				     <tr>
-					<td>Specialization</td>
+					<td>Industry</td>
 					<td>
 					    <div style="width:100%; height: 120px; float: left; border:1px solid #dedede; overflow: auto; word-break: break-all;">
 						<?php
@@ -789,12 +789,9 @@ else{}
 						<?php }?>
 						
 					    </div>
-					   <span onclick="return removespecialcheck();">[clear]</span>
-					   <input type="radio" name="sp_type" value="current" class="specrad"/>Current
-					    <input type="radio" name="sp_type" value="previous" class="specrad"/>Previous
-					    <input type="radio" name="sp_type" value="any" class="specrad"/>Any
+					  
 					</td>
-					<td>Industry</td>
+					<td>Specialization</td>
 					<td>
 					    
 					    <div style="width:100%; height: 120px; float: left; border:1px solid #dedede; overflow: auto; word-break: break-all;">
@@ -805,12 +802,23 @@ else{}
 						<input type="checkbox" name="chkindustry[]" value="<?php echo $rindustry['slno']; ?>" class="industrycheckbox"/><?php echo $rindustry['industry']; ?><br/>
 						<?php }?>
 					    </div>
-					   <span onclick="return removeindustrycheck();">[clear]</span>
+					  
+					</td>
+				    </tr>
+				     <tr>
+				      <td colspan="2">
+				       <span onclick="return removespecialcheck();">[clear]</span>
+					   <input type="radio" name="sp_type" value="current" class="specrad"/>Current
+					    <input type="radio" name="sp_type" value="previous" class="specrad"/>Previous
+					    <input type="radio" name="sp_type" value="any" class="specrad"/>Any
+				      </td>
+				      <td colspan="2">
+					 <span onclick="return removeindustrycheck();">[clear]</span>
 					   <input type="radio" name="indus_type" value="current" class="indusrad"/>Current
 					    <input type="radio" name="indus_type" value="previous" class="indusrad"/>Previous
 					    <input type="radio" name="indus_type" value="any" class="indusrad"/>Any
-					</td>
-				    </tr>
+				      </td>
+				     </tr>
 				</table>
 				
 				<table class="table2">
@@ -940,7 +948,7 @@ else{}
 				    <tr>
 					<td>Country<br/>(Citizen Of)</td>
 					<td>
-					    <div style="width:100%; height: 120px; float: left; border:1px solid #dedede; overflow: auto; word-break: break-all;">
+					    <div style="width:150px; height: 120px; float: left; border:1px solid #dedede; overflow: auto; word-break: break-all;">
 						<?php
 					$fcountry1=mysql_query("select * from `country`");
 					while($rcountry1=mysql_fetch_array($fcountry1))
@@ -954,7 +962,7 @@ else{}
 					</td>
 					<td>Residing In</td>
 					<td>
-					<div style="width:220px; height: 120px; float: left; border:1px solid #dedede; overflow: auto;" id="locid">
+					<div style="width:180px; height: 120px; float: left; border:1px solid #dedede; overflow: auto;" id="locid">
 					     <div style="width: 100%;float: left;margin-left: 0px;">
 						<?php
 					$flocation=mysql_query("select * from `location`");
@@ -1006,9 +1014,9 @@ else{}
 						}?>
 					    </div> 
 					    </div>-->
-					 <!--  <span onclick="return addlocation();" style="cursor: pointer;">[All </span>
-					   <span onclick="return removelocation();" style="cursor: pointer;"> | clear]</span> -->
+					 <div style="width: 100%;float: left;">
 					   <input type="checkbox" />Include candidates with selected above location as their preferred locations
+					 </div>
 					</td>
 				    </tr>
 				    <tr>

@@ -22,21 +22,7 @@ $rj=mysql_fetch_array($qj);
 
 <link href="style.css" type="text/css" rel="stylesheet"  media="screen"/>
 <link href="font.css" type="text/css" rel="stylesheet" media="screen"  />
-<style>
-@font-face {
-    font-family: 'EstrangeloEdessaRegular';
-    src: url('font/estrangeloedessa.eot');
-    src: url('font/estrangeloedessa.eot') format('embedded-opentype'),
-         url('font/estrangeloedessa.woff2') format('woff2'),
-         url('font/estrangeloedessa.woff') format('woff'),
-         url('font/estrangeloedessa.ttf') format('truetype'),
-         url('font/estrangeloedessa.svg#EstrangeloEdessaRegular') format('svg');
-}
 
-h3{ margin-bottom:0px; margin-top:0px;}
-#content_left .text2{ font-size:15px;}
-#content_left p{ font-size:16px; margin-bottom:0px; margin-top:10px; color:#3b3a3a;}
-</style>
 <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript">
 	function getstate(cn)
@@ -59,6 +45,20 @@ h3{ margin-bottom:0px; margin-top:0px;}
 	?>
 </script>
 <style>
+	@font-face {
+    font-family: 'EstrangeloEdessaRegular';
+    src: url('font/estrangeloedessa.eot');
+    src: url('font/estrangeloedessa.eot') format('embedded-opentype'),
+         url('font/estrangeloedessa.woff2') format('woff2'),
+         url('font/estrangeloedessa.woff') format('woff'),
+         url('font/estrangeloedessa.ttf') format('truetype'),
+         url('font/estrangeloedessa.svg#EstrangeloEdessaRegular') format('svg');
+}
+
+h3{ margin-bottom:0px; margin-top:0px;}
+#content_left .text2{ font-size:15px;}
+#content_left p{ font-size:16px; margin-bottom:0px; margin-top:10px; color:#3b3a3a;}
+
 #top_textbar{width:100%; height:auto; float:left;}
 #top_textbox{width:1000px; margin:auto;}
 .top_text{width:100%; height:auto; float:left; margin-top:20px;}
@@ -128,6 +128,12 @@ h3{ margin-bottom:0px; margin-top:0px;}
   font-size: 15px !important;
   padding-right: 5px;
 }
+.input4{
+	width: 250px;
+}
+.input3select{
+	width: 257px;
+}
 </style>
 <!-- Skitter Styles -->
 	<link href="css/skitter.styles.css" type="text/css" media="all" rel="stylesheet" />
@@ -174,6 +180,23 @@ function ValidateMobNumber(txtMobId) {
 </script>
 </head>
 <body>
+<!----------facebook share button-------->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+ <!----------facebook share button--------> 
+ 
+ <!----------google plus share button-------->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<!----------google plus  share button-------->
+
 <!--------------------------header----------------------->
 <?php include_once("topbar.php");?>
 <!--------------------------header end----------------------->
@@ -222,10 +245,13 @@ function ValidateMobNumber(txtMobId) {
         		 
                 <div id="content2_right" style="width:580px;margin-left: 0px;">
                <h3 class="head3" style="margin-top:20px;">
-                 Job Description
+                 <span style="float:left;">Job Description</span>
                 		<span style="float:right;">
-                                     <img src="images/sh2.jpg" style="float:right;"   /><img src="images/sh.jpg" style="float:right;"   /><img src="images/s.jpg" style="float:right;"  />
-                                     </span>
+                                     <div class="fb-share-button" data-href="https://www.facebook.com/lovetoprecruiters" data-layout="button_count"></div>
+					<div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://plus.google.com/u/0/b/104644828667335538524/104644828667335538524/about/p/pub"></div>
+					<img src="images/sh.jpg" />
+					<img src="images/sh2.jpg" />
+                                </span>
                 </h3>
                         <div id="content2_rightbox">
                         	<h2 style="background:#06C; margin:0px; padding:0px;">&nbsp;</h2>
@@ -344,12 +370,12 @@ function ValidateMobNumber(txtMobId) {
 					Message
 				    </td>
 				    <td>
-					<textarea name="message" class="input4" required></textarea>
+					<textarea name="message" class="input4" required style="height: 70px;"></textarea>
 				    </td>
 				  </tr>
 				  <tr>
 				    <td></td>
-				    <td><input type="submit" name="submit" value="" class="button" style="background: url(images/send.jpg) no-repeat; width: 57px; height: 29px; border: none;" /></td>
+				    <td><input type="submit" name="submit" value="" class="button" style="background: url(images/send.jpg) no-repeat; cursor: pointer; width: 57px; height: 29px; border: none;" /></td>
 				  </tr>
                     </table>
 		    </form>

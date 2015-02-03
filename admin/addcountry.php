@@ -85,12 +85,15 @@ $(document).ready(function($){
 												</table>  
 											</form>
 											
-											<table class="table1">
+					<table class="table1">
 											<tr>
                                     		<th>Country</th>
 						<th>Country Code</th>
                                             <th colspan="2">Action</th>
                                     		</tr>
+					</table>
+					<div style="width: 97%;height: 400px;float: left;overflow: auto;">
+							<table class="table1">			
 											<?php
 															$que=mysql_query("select *from country");
 															while($res=mysql_fetch_array($que))
@@ -107,7 +110,8 @@ $(document).ready(function($){
 											 <!--<td onClick="delete_data(<?php echo $res['slno']; ?>)"><img src="images/delete.png" width="60"></a></td>-->
                                     		</tr>
 											<?php } ?>
-											</table>  
+											</table>
+					</div>
 								</div>
 						</div>
 				</div>

@@ -83,6 +83,12 @@ oldval=oldval.replace(sid, "");
 $('#advance_add').val(oldval);
 }
 </script>
+
+<style>
+	    .all{
+		color:#797878 !important;
+	    }
+</style>
 </head>
 <body>
 <!--------------------------header----------------------->
@@ -154,7 +160,7 @@ $('#advance_add').val(oldval);
 
 <!--------------------------footer bar----------------------->
 <?php
-include_once("footer.php");
+include_once("footer1.php");
 ?>
 <!--------------------------footer bar end----------------------->
 </body>

@@ -111,14 +111,11 @@ $(document).ready(function($){
 												</table>  
 											</form>
 											
-						<table class="table1">
+											<table class="table1">
 											<tr>
-                                    		<th>Subspecialization</th>
+                                    		<th>Job Functions</th>
                                             <th colspan='2'>Action</th>
                                     		</tr>
-						</table>
-						<div style="width: 97%;height: 400px;float: left;overflow: auto;">
-										<table class="table1">
 											<?php
 															$que=mysql_query("select *from job_function");
 															while($res=mysql_fetch_array($que))
@@ -132,8 +129,7 @@ $(document).ready(function($){
 											<td onClick="delete_data(<?php echo $res['slno']; ?>)"><img src="images/delete.png" width="60"></td>
                                     		</tr>
 											<?php } ?>
-											</table>
-						</div>
+											</table>  
 								</div>
 						</div>
 				</div>

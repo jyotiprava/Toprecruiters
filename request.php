@@ -356,6 +356,12 @@ div.pagination span.current {
 	}
 	
                     </style>
+ 
+ <style>
+	    .searchr{
+		color:#797878 !important;
+	    }
+</style>
 </head>
 <body>
 <!--------------------------header----------------------->
@@ -746,7 +752,7 @@ else{}
 					</td>
 				    </tr>
 				     <tr>
-					<td>Specialization</td>
+					<td>Industry</td>
 					<td>
 					    <div style="width:100%; height: 120px; float: left; border:1px solid #dedede; overflow: auto; word-break: break-all;">
 						<?php
@@ -762,7 +768,7 @@ else{}
 					    <input type="radio" name="sp_type" value="previous" class="specrad"/>Previous
 					    <input type="radio" name="sp_type" value="any" class="specrad"/>Any
 					</td>
-					<td>Industry</td>
+					<td>Specialization</td>
 					<td>
 					    
 					    <div style="width:100%; height: 120px; float: left; border:1px solid #dedede; overflow: auto; word-break: break-all;">

@@ -83,6 +83,28 @@ h3{ margin-bottom:0px; margin-top:0px;}
 			});
 		});
 	</script>
+		<!----------facebook share button-------->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+ <!----------facebook share button--------> 
+ 
+ <!----------google plus share button-------->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<!----------google plus  share button-------->
+
+<style>
+	    .employers{
+		color:#797878 !important;
+	    }
+	</style>
 </head>
 <body><!--------------------------header-----------------------><?php include_once("topbar.php");?><!--------------------------header end-----------------------><!--------------------------menu bar-----------------------><?php include_once("menubar.php");?><!--------------------------menu bar end----------------------->
 <div id="top_textbar">
@@ -137,9 +159,18 @@ For Jobs </a></div>
 </div>
 
 <div style="width:465px; height:auto; float:left; margin-left:20px;">
-<p class="text2" style="margin-top:10px; color:#5c5c5c;margin-bottom:0px;"><span class="head10">Staffing Solutions <span style="float:right;"><img src="images/sh2.jpg" style="float:right;" width="80" /><img src="images/sh.jpg" style="float:right;" width="70" /><img src="images/s.jpg" style="float:right;" width="120" /> </span> </span><br />
+<p class="text2" style="margin-top:10px; color:#5c5c5c;margin-bottom:0px;">
+<span class="head10">Staffing Solutions </span>
+<div style="float:right; ">
+<div class="fb-share-button" data-href="https://www.facebook.com/lovetoprecruiters" data-layout="button_count"></div>
+	<div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://plus.google.com/u/0/b/104644828667335538524/104644828667335538524/about/p/pub"></div>
+	 <img src="images/sh.jpg" />
+    <img src="images/sh2.jpg" />
+  
+ </div>
+</p>
 
- </p>
+ 
 
 <div style="width:465px; height:auto; float:left;">
 <p class="text2" style="margin-top:0px;  color:#5c5c5c;"><span class="head10">Permanent Recruitment</span><br />
@@ -191,6 +222,8 @@ Our clients can benefit from the traditional services of recruitment agencies wi
 <p class="text2" style="margin-top:10px; color:#5c5c5c;"><span class="head10">Process of Selecting a Candidate</span><br />
 <br />
 We have developed a thorough and efficient process that seeks optimum results from the initial client contact through to the final stage of a job offer to the best candidate.</p>
+
+<img src="images/select.jpg" />
 </div>
 
 <div id="content_right"><?php //include_once("searchjob.php");?>

@@ -41,6 +41,11 @@ var urlval="popup.php?eval="+mail;
 $('#postdetails').attr('src',urlval);  
 }
 </script>
+<style>
+	    .shortlist{
+		color:#797878 !important;
+	    }
+</style>
 </head>
 <body>
 <!--------------------------header----------------------->

@@ -1,10 +1,9 @@
 <?php include_once("function.php");?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-</head>
-<body>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></body>
-</html>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 <title>..::TOP RECRUITERS::..</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
@@ -42,7 +41,15 @@ h3{ margin-bottom:0px; margin-top:0px;}
 		<?php
 	}
 	?>
-</script><!--------------------------header-----------------------><?php include_once("topbar.php");?><!--------------------------header end-----------------------><!--------------------------menu bar-----------------------><?php include_once("menubar.php");?><!--------------------------menu bar end-----------------------><!--------------------------content bar----------------------->
+</script>
+<style>
+	    .request{
+		color:#797878 !important;
+	    }
+</style>
+</head>
+<body>
+<!--------------------------header-----------------------><?php include_once("topbar.php");?><!--------------------------header end-----------------------><!--------------------------menu bar-----------------------><?php include_once("menubar.php");?><!--------------------------menu bar end-----------------------><!--------------------------content bar----------------------->
 <div id="content_bar">
 <div id="content_box">
 <div id="content_left" style="margin-top:20px; font-family: 'Conv_estre'; font-size:20px;">
@@ -192,3 +199,5 @@ If you are a candidate, please have a look through our jobs or find a Top Recrui
 <!--------------------------content bar end-----------------------><!--------------------------footer bar-----------------------><?php 
 include_once("footer1.php");
 ?><!--------------------------footer bar end----------------------->
+</body>
+</html>

@@ -1,8 +1,7 @@
 <?php include_once("function.php");?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-</head>
-<body>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></body>
 </html>
 <title>..::TOP RECRUITERS::..</title>
@@ -20,6 +19,13 @@
          url('font/estrangeloedessa.svg#EstrangeloEdessaRegular') format('svg');
 }
 </style>
+<style>
+	    .contact{
+		color:#797878 !important;
+	    }
+</style>
+</head>
+<body>
 <!--------------------------header-----------------------><?php include_once("topbar.php");?><!--------------------------header end-----------------------><!--------------------------menu bar-----------------------><?php include_once("menubar.php");?><!--------------------------menu bar end-----------------------><!--------------------------content bar----------------------->
 <div id="content_bar" style="color: #00FF99;">
 <div id="content_box" style="color: #996600;">
@@ -42,7 +48,7 @@ Phone: 017-2288 702<br />
 <div class="content_right">Enquiry Form</div>
 
 <div class="content_right1">*Denotes compulsory fields.
-<form name="f" action="" method="post">
+<form name="f" action="insert_contact.php" method="post">
 <table>
 	<tbody>
 		<tr>

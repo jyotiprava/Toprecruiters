@@ -188,7 +188,7 @@ $variable.='`status`=0';
 
 
 </style>
-<style type="text/css">
+<style>
                    
                     h1 {font-size: 3em; margin: 20px 0;}
                     .container {width: 500px; margin: 10px auto;}
@@ -338,6 +338,11 @@ div.pagination span.current {
 			}
 			
 		    </script>
+<style>
+	    .apply{
+		color:#797878 !important;
+	    }
+</style>
 </head>
 <body>
 <!--------------------------header----------------------->
@@ -564,7 +569,7 @@ div.pagination span.current {
 
 <!--------------------------footer bar----------------------->
 <?php 
-include_once("footer.php");
+include_once("footer1.php");
 ?>
 
 

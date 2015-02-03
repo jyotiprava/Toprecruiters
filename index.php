@@ -97,6 +97,11 @@ p{  margin-bottom: 0px; margin-top:0px;}
 			   });
 		}
 	</script>
+	<style>
+	    .home{
+		color:#797878 !important;
+	    }
+	</style>
 </head>
 <body>
 <!----------facebook share button-------->
@@ -139,7 +144,7 @@ For Jobs </a></div>
 </div>
 
 <div style="width:100%; height:auto; float:left;">
-<p class="text" style="width:100%; margin-top:10px;color:#333; font-size:30px;">At the heart of our service is our talent bank of over 200,000 candidates. Selected from over numerous applicants, these individuals represent a diverse and highly experienced resource for companies facing a need for talent. Our permanent recruitment service delivers senior managers and office executives (RM2k to RM10k monthly income positions) &ndash; selected for their specific experience and skills, in virtually every functional and professional discipline. </p>
+<p class="text" style="width:100%; margin-top:10px;color:#333; font-size:30px; margin-bottom:15px;">At the heart of our service is our talent bank of over 200,000 candidates. Selected from over numerous applicants, these individuals represent a diverse and highly experienced resource for companies facing a need for talent. Our permanent recruitment service delivers senior managers and office executives (RM2k to RM10k monthly income positions) &ndash; selected for their specific experience and skills, in virtually every functional and professional discipline. </p>
 </div>
 </div>
 </div>

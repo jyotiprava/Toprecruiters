@@ -118,8 +118,21 @@ h3{ margin-bottom:0px; margin-top:0px;}
  <!----------google plus share button-------->
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <!----------google plus  share button-------->
+<style>
+	    .request{
+		color:#797878 !important;
+	    }
+	</style>
 </head>
-<body><!--------------------------header-----------------------><?php include_once("topbar.php");?><!--------------------------header end-----------------------><!--------------------------menu bar-----------------------><?php include_once("menubar.php");?><!--------------------------menu bar end----------------------->
+<body>
+
+
+<!--------------------------header----------------------->
+<?php include_once("topbar.php");?>
+<!--------------------------header end----------------------->
+<!--------------------------menu bar----------------------->
+<?php include_once("menubar.php");?>
+<!--------------------------menu bar end----------------------->
 <div id="top_textbar">
 <div id="top_textbox">
 <div class="top_text">
@@ -137,7 +150,7 @@ For Jobs </a></div>
 </div>
 
 <div style="width:100%; height:auto; float:left;">
-<p class="text" style="width:100%; margin-top:10px;">At the heart of our service is our talent bank of over 200,000 candidates. Selected from over numerous applicants, these individuals represent a diverse and highly experienced resource for companies facing a need for talent. Our permanent recruitment service delivers senior managers and office executives (RM2k to RM10k monthly income positions) &ndash; selected for their specific experience and skills, in virtually every functional and professional discipline. </p>
+<p class="text" style="width:100%; margin-top:10px; margin-bottom:15px;">At the heart of our service is our talent bank of over 200,000 candidates. Selected from over numerous applicants, these individuals represent a diverse and highly experienced resource for companies facing a need for talent. Our permanent recruitment service delivers senior managers and office executives (RM2k to RM10k monthly income positions) &ndash; selected for their specific experience and skills, in virtually every functional and professional discipline. </p>
 </div>
 </div>
 </div>
@@ -183,7 +196,7 @@ For Jobs </a></div>
 
 <div style="width:730px; height:auto; float:left; margin-left:20px;">
 <p class="text2" style="margin-top:10px; color:#5c5c5c;">
-<span class="head10" style="float:left;margin-right:20px; margin-top:10px;">No. 1 in Providing Staffing Solutions </span>
+<span class="head10" style="float:left;margin-right:65px; margin-top:10px;">No. 1 in Providing Staffing Solutions </span>
 	<span style="float:right;"> 
 	<!--<img src="images/sh2.jpg" style="float:right;" />
 	<img src="images/sh.jpg" style="float:right;" />

@@ -86,6 +86,27 @@ h3{ margin-bottom:0px; margin-top:0px;}
 		alert("Please login for add to shortlist");
 		}
 	</script>
+			<!----------facebook share button-------->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+ <!----------facebook share button--------> 
+ 
+ <!----------google plus share button-------->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<!----------google plus  share button-------->
+<style>
+	    .jobseeker{
+		color:#797878 !important;
+	    }
+</style>
 </head>
 <body><!--------------------------header-----------------------><?php include_once("topbar.php");?><!--------------------------header end-----------------------><!--------------------------menu bar-----------------------><?php include_once("menubar.php");?><!--------------------------menu bar end-----------------------><!--------------------------content bar----------------------->
 <div id="top_textbar">
@@ -137,9 +158,16 @@ For Jobs </a></div>
 
 <div style="width:465px; height:auto; float:left; margin-left:20px;">
 <p class="text2" style="margin-top:10px; color:#5c5c5c;"><span class="head10" >Specialist requirement services </span>
-<br/>
-<span style="float:right;"> <img src="images/sh2.jpg" style="float:right;" width="80" /><img src="images/sh.jpg" style="float:right;" width="70" /><img src="images/s.jpg" style="float:right;" width="120" /> </span> </p>
 
+<div style="float:right; ">
+<div class="fb-share-button" data-href="https://www.facebook.com/lovetoprecruiters" data-layout="button_count"></div>
+	<div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://plus.google.com/u/0/b/104644828667335538524/104644828667335538524/about/p/pub"></div>
+	 <img src="images/sh.jpg" />
+    <img src="images/sh2.jpg" />
+  
+ </div>
+</p> 
+<div style="width:465px; height:auto; float:left;">
 <p class="text2" style="color:#5c5c5c;">Our Top Recruiters are not only partners to our clients, but also our candidates. Tapping on our expertise in online marketing, we are able to help jobseekers match roles to their career aspirations and goals. 
 
 Our experience in the Asia Pacific markets, offer you access to career opportunities with organisations ranging from small to medium enterprise, large multi-nationals to the public sector. Top Recruiters are committed to understanding your individual needs and finding you the right jobs to accelerate your career.<br />
@@ -148,7 +176,7 @@ We understand that the most frustrating parts of job searching can be the lack o
  <br />
 Whether you are placed in a contract assignment or permanent role, we will keep in touch to help you settle into your role and, later, to help you progress.</p>
 </div>
-
+</div>
 <div id="content_right"><?php //include_once("searchjob.php");?>
 <div id="right_box1" style="display:none;">
 <div id="right_box2"><?php
